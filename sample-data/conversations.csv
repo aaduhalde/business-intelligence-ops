@@ -1,0 +1,101 @@
+conversation_id,channel,customer_name,message_text,message_type,created_at
+1,instagram,Ana Perez,"Hola, cuanto cuesta el servicio?",customer,2026-03-01 10:12:00
+2,instagram,BusinessBot,"El servicio cuesta $20",agent,2026-03-01 10:13:00
+3,facebook,Carlos Lopez,"Tienen disponibilidad mañana?",customer,2026-03-01 11:20:00
+4,facebook,BusinessBot,"Sí, tenemos horarios disponibles",agent,2026-03-01 11:21:00
+5,whatsapp,Laura Diaz,"Quiero reservar turno",customer,2026-03-02 09:15:00
+6,whatsapp,BusinessBot,"Perfecto, te agendo para mañana",agent,2026-03-02 09:16:00
+7,instagram,Martin Ruiz,"Precio del producto?",customer,2026-03-02 14:03:00
+8,instagram,BusinessBot,"El producto cuesta $35",agent,2026-03-02 14:04:00
+9,whatsapp,Sofia Torres,"Tienen promociones?",customer,2026-03-03 12:10:00
+10,whatsapp,BusinessBot,"Esta semana hay 10% de descuento",agent,2026-03-03 12:11:00
+11,facebook,Juan Gomez,"Donde estan ubicados?",customer,2026-03-03 15:00:00
+12,facebook,BusinessBot,"Estamos en Av. Principal 123",agent,2026-03-03 15:01:00
+13,instagram,Elena Mora,"Aceptan tarjeta de credito?",customer,2026-03-04 08:30:00
+14,instagram,BusinessBot,"Sí, aceptamos todas las tarjetas",agent,2026-03-04 08:31:00
+15,whatsapp,Pedro Sola,"Cual es el horario de atencion?",customer,2026-03-04 10:45:00
+16,whatsapp,BusinessBot,"Abrimos de 9am a 6pm",agent,2026-03-04 10:46:00
+17,facebook,Lucia Mendez,"Hacen envios a domicilio?",customer,2026-03-05 13:20:00
+18,facebook,BusinessBot,"Sí, enviamos a todo el pais",agent,2026-03-05 13:21:00
+19,instagram,Ricardo Sosa,"Tienen stock del modelo azul?",customer,2026-03-05 16:10:00
+20,instagram,BusinessBot,"Sí, nos quedan las ultimas unidades",agent,2026-03-05 16:11:00
+21,whatsapp,Marta Gil,"Me pueden enviar el catalogo?",customer,2026-03-06 09:05:00
+22,whatsapp,BusinessBot,"Claro, aqui tienes el link: bit.ly/catalogo",agent,2026-03-06 09:06:00
+23,facebook,Hugo Bossi,"Tienen descuento en efectivo?",customer,2026-03-06 11:30:00
+24,facebook,BusinessBot,"Ofrecemos un 5% extra en efectivo",agent,2026-03-06 11:31:00
+25,instagram,Sara Vega,"Hacen cambios de talle?",customer,2026-03-07 14:50:00
+26,instagram,BusinessBot,"Sí, tienes 30 dias para cambios",agent,2026-03-07 14:51:00
+27,whatsapp,Pablo Echenique,"Cual es el costo de envio?",customer,2026-03-07 17:15:00
+28,whatsapp,BusinessBot,"El envio es gratuito en compras de +$50",agent,2026-03-07 17:16:00
+29,facebook,Clara Luna,"Necesito cancelar mi cita",customer,2026-03-08 10:00:00
+30,facebook,BusinessBot,"Entendido, cita cancelada exitosamente",agent,2026-03-08 10:01:00
+31,instagram,Tomas Garcia,"Venden por mayor?",customer,2026-03-08 12:40:00
+32,instagram,BusinessBot,"Sí, a partir de 10 unidades",agent,2026-03-08 12:41:00
+33,whatsapp,Julia Roberts,"Siguen abiertos?",customer,2026-03-09 18:05:00
+34,whatsapp,BusinessBot,"Cerramos en 5 minutos, apresurate!",agent,2026-03-09 18:06:00
+35,facebook,Oscar Wilde,"Tienen garantia?",customer,2026-03-09 20:30:00
+36,facebook,BusinessBot,"Todos los productos tienen 6 meses de garantia",agent,2026-03-09 20:31:00
+37,instagram,Belen Rueda,"Puedo retirar hoy?",customer,2026-03-10 09:45:00
+38,instagram,BusinessBot,"Sí, tu pedido ya esta listo",agent,2026-03-10 09:46:00
+39,whatsapp,Dante Alighieri,"Me interesa el servicio premium",customer,2026-03-10 11:12:00
+40,whatsapp,BusinessBot,"Excelente eleccion, te paso los detalles",agent,2026-03-10 11:13:00
+41,facebook,Beatriz Pinzon,"Tienen tallas XL?",customer,2026-03-11 13:00:00
+42,facebook,BusinessBot,"Sí, tenemos stock en todos los talles",agent,2026-03-11 13:01:00
+43,instagram,Marcos Rojo,"Cual es el tiempo de entrega?",customer,2026-03-11 15:20:00
+44,instagram,BusinessBot,"Demoramos entre 2 y 4 dias habiles",agent,2026-03-11 15:21:00
+45,whatsapp,Lola Indigo,"Me das informacion de contacto?",customer,2026-03-12 10:15:00
+46,whatsapp,BusinessBot,"Puedes llamarnos al 555-0199",agent,2026-03-12 10:16:00
+47,facebook,Mario Bros,"Busco un regalo para hombre",customer,2026-03-12 14:00:00
+48,facebook,BusinessBot,"Te recomiendo nuestras billeteras de cuero",agent,2026-03-12 14:01:00
+49,instagram,Giselle Itie,"Hay algun cupon de bienvenida?",customer,2026-03-13 08:30:00
+50,instagram,BusinessBot,"Usa el codigo HOLA10 para un descuento",agent,2026-03-13 08:31:00
+51,whatsapp,Fernando Alonso,"Corren hoy?",customer,2026-03-13 11:45:00
+52,whatsapp,BusinessBot,"No entiendo tu pregunta, ¿te refieres a envios?",agent,2026-03-13 11:46:00
+53,facebook,Sandra Bullock,"Recibi mi pedido hoy, gracias",customer,2026-03-14 16:10:00
+54,facebook,BusinessBot,"¡Que bueno! Esperamos que lo disfrutes",agent,2026-03-14 16:11:00
+55,instagram,Luis Miguel,"Tienen el album disponible?",customer,2026-03-14 19:20:00
+56,instagram,BusinessBot,"No vendemos musica, somos una tienda de ropa",agent,2026-03-14 19:21:00
+57,whatsapp,Karina Jelinek,"Lo dejo a tu criterio",customer,2026-03-15 09:30:00
+58,whatsapp,BusinessBot,"¿En que puedo ayudarte especificamente?",agent,2026-03-15 09:31:00
+59,facebook,Esteban Quito,"Hacen factura A?",customer,2026-03-15 12:00:00
+60,facebook,BusinessBot,"Sí, emitimos facturas A y B",agent,2026-03-15 12:01:00
+61,instagram,Monica Geller,"Necesito que todo este ordenado",customer,2026-03-16 14:40:00
+62,instagram,BusinessBot,"Claro, nuestro packaging es impecable",agent,2026-03-16 14:41:00
+63,whatsapp,Ross Geller,"Estabamos en un descanso",customer,2026-03-16 17:15:00
+64,whatsapp,BusinessBot,"Lamentamos el inconveniente, ¿podemos ayudar?",agent,2026-03-16 17:16:00
+65,facebook,Phoebe Buffay,"Cantan canciones?",customer,2026-03-17 10:00:00
+66,facebook,BusinessBot,"Lo siento, solo atendemos consultas comerciales",agent,2026-03-17 10:01:00
+67,instagram,Joey Tribbiani,"¿Como va eso?",customer,2026-03-17 13:20:00
+68,instagram,BusinessBot,"Muy bien, ¿en que podemos servirte?",agent,2026-03-17 13:21:00
+69,whatsapp,Chandler Bing,"¿Podria ser mas barato?",customer,2026-03-18 15:45:00
+70,whatsapp,BusinessBot,"Nuestros precios son fijos, lo sentimos",agent,2026-03-18 15:46:00
+71,facebook,Rachel Green,"Tienen vestidos de novia?",customer,2026-03-18 18:00:00
+72,facebook,BusinessBot,"No por el momento, solo ropa casual",agent,2026-03-18 18:01:00
+73,instagram,Ines Pertine,"A que hora abren mañana?",customer,2026-03-19 08:15:00
+74,instagram,BusinessBot,"Mañana abrimos a las 9:00 AM",agent,2026-03-19 08:16:00
+75,whatsapp,Roberto Gomez,"Tienen el chavo disponible?",customer,2026-03-19 11:30:00
+76,whatsapp,BusinessBot,"No comprendo tu solicitud",agent,2026-03-19 11:31:00
+77,facebook,Mirtha Legrand,"¿Como te ven te tratan?",customer,2026-03-20 14:10:00
+78,facebook,BusinessBot,"¿Deseas realizar una compra?",agent,2026-03-20 14:11:00
+79,instagram,Susana Gimenez,"¡Hola, vivo!",customer,2026-03-20 17:50:00
+80,instagram,BusinessBot,"Hola Susana, ¿en que te ayudamos?",agent,2026-03-20 17:51:00
+81,whatsapp,Diego Maradona,"¿Cual es el 10 mas vendido?",customer,2026-03-21 12:00:00
+82,whatsapp,BusinessBot,"Nuestra camiseta numero 10 es la favorita",agent,2026-03-21 12:01:00
+83,facebook,Lionel Messi,"¿Llegan a Rosario?",customer,2026-03-21 16:20:00
+84,facebook,BusinessBot,"Sí, enviamos a Rosario todas las semanas",agent,2026-03-21 16:21:00
+85,instagram,Antonela Roccuzzo,"Tienen ropa de niños?",customer,2026-03-22 09:40:00
+86,instagram,BusinessBot,"Sí, tenemos una coleccion infantil",agent,2026-03-22 09:41:00
+87,whatsapp,Sergio Aguero,"¿Sale un streaming?",customer,2026-03-22 22:15:00
+88,whatsapp,BusinessBot,"Disculpa, este es un canal de ventas",agent,2026-03-22 22:16:00
+89,facebook,Shakira Mebarak,"¿Las mujeres ya no lloran?",customer,2026-03-23 10:05:00
+90,facebook,BusinessBot,"Facturan, claro. ¿Necesitas factura?",agent,2026-03-23 10:06:00
+91,instagram,Gerard Pique,"¿Tienen relojes Casio?",customer,2026-03-23 13:40:00
+92,instagram,BusinessBot,"No, solo vendemos relojes inteligentes",agent,2026-03-23 13:41:00
+93,whatsapp,Miley Cyrus,"Puedo comprarme flores?",customer,2026-03-24 15:55:00
+94,whatsapp,BusinessBot,"No vendemos flores, pero si floreros",agent,2026-03-24 15:56:00
+95,facebook,Taylor Swift,"¿Tienen entradas?",customer,2026-03-24 19:10:00
+96,facebook,BusinessBot,"No vendemos tickets para eventos",agent,2026-03-24 19:11:00
+97,instagram,Harry Potter,"¿Venden capas?",customer,2026-03-25 11:25:00
+98,instagram,BusinessBot,"No tenemos capas en nuestro inventario",agent,2026-03-25 11:26:00
+99,whatsapp,Frodo Bolson,"¿Tienen anillos?",customer,2026-03-25 14:50:00
+100,whatsapp,BusinessBot,"Sí, tenemos anillos de acero y plata",agent,2026-03-25 14:51:00
