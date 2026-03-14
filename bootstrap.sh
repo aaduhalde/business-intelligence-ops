@@ -28,8 +28,8 @@ now1=$(date)
 echo "************** START time: $now1"
 
 # 6. CREATE DATABASE AND TABLES
-sqlcmd -S localhost -U sa -P "$DB_PASS" -N -C < /home/aadm/GIT/aaduhalde/PUBLIC/business-intelligence-ops/staging/staging_tables.sql
-sqlcmd -S localhost -U sa -P "$DB_PASS" -N -C < /home/aadm/GIT/aaduhalde/PUBLIC/business-intelligence-ops/analytics/analytics_tables.sql
+sqlcmd -S localhost -U sa -P "$DB_PASS" -N -C < /home/aadm/GIT/aaduhalde/PUBLIC/business-intelligence-ops/data-model/staging_tables.sql
+sqlcmd -S localhost -U sa -P "$DB_PASS" -N -C < /home/aadm/GIT/aaduhalde/PUBLIC/business-intelligence-ops/data-model/analytics_tables.sql
 
 
 # Crear carpeta de carga si no existe

@@ -45,38 +45,34 @@ The objective is to convert **unstructured conversational data** into **structur
 business-intelligence-ops
 │
 ├── analytics
-│ ├── model
-│ │ └── analytics_tables.sql
-│ │
-│ ├── transforms
-│ │ └── load_analytics_data.sql
-│ │
-│ └── kpi
-│ ├── messages_by_channel.sql
-│ ├── conversion_rate.sql
-│ ├── revenue_metrics.sql
-│ └── lead_funnel.sql
+│   ├── kpi
+│   │   ├── conversion_rate.sql
+│   │   ├── lead_funnel.sql
+│   │   ├── messages_by_channel.sql
+│   │   └── revenue_metrics.sql
+│   │
+│   └── load_analytics_data.sql
 │
 ├── architecture
-│ └── system_architecture.md
+│   └── system_architecture.md
 │
 ├── data-model
-│ ├── star_schema.sql
-│ └── tables.sql
-│
-├── etl
-│ ├── capture_messages.py
-│ ├── load_sales.sql
-│ └── transform_leads.sql
+│   ├── analytics_tables.sql
+│   ├── staging_tables.sql
+│   └── star_schema.sql
 │
 ├── staging
-│ ├── staging_tables.sql
-│ └── load_staging.sql
+│   └── load_staging.sql
+│
+├── etl
+│   ├── capture_messages.py
+│   ├── load_sales.sql
+│   └── transform_leads.sql
 │
 ├── sample-data
-│ ├── conversations.csv
-│ ├── leads.csv
-│ └── sales.csv
+│   ├── conversations.csv
+│   ├── leads.csv
+│   └── sales.csv
 │
 ├── bootstrap.sh
 └── README.md
