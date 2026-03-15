@@ -3,8 +3,6 @@
 # Author: Alejandro Adrián Duhalde
 # Role: Data Engineer / BI Analyst
 # Description: Execute staging SQL scripts using external credentials
-# Created: 2026-03-13
-# Contact: aaduhalde@outlook.es
 # ==========================================================
 
 # 1. RUTA DEL ARCHIVO DE PASSWORD (Fuera del repo)

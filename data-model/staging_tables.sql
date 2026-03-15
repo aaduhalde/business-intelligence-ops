@@ -3,8 +3,6 @@
 Author: Alejandro Adrián Duhalde
 Role: Data Engineer / BI Analyst
 Description: Create Staging Tables
-Created: 2026-03-13
-Contact: aaduhalde@outlook.es
 ==========================================================
 */
 

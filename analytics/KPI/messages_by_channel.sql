@@ -2,9 +2,7 @@
 ==========================================================
 Author: Alejandro Adrián Duhalde
 Role: Data Engineer / BI Analyst
-Description: 
-Created: 2026-03-13
-Contact: aaduhalde@outlook.es
+Description: SQL script to analyze message volume and distribution percentage per channel.
 ==========================================================
 */
 SELECT @@VERSION;

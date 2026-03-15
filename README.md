@@ -58,16 +58,13 @@ business-intelligence-ops
 │
 ├── data-model
 │   ├── analytics_tables.sql
-│   ├── staging_tables.sql
-│   └── star_schema.sql
+│   └── staging_tables.sql
 │
 ├── staging
 │   └── load_staging.sql
 │
 ├── etl
-│   ├── capture_messages.py
-│   ├── load_sales.sql
-│   └── transform_leads.sql
+│   └──  capture_messages.py
 │
 ├── sample-data
 │   ├── conversations.csv
