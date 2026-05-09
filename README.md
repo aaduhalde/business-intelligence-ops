@@ -67,6 +67,36 @@ Power BI Dashboards
 
 ---
 
+## Repository Structure
+```text
+business-intelligence-ops/
+├── assets/                         # El "escaparate" del repositorio
+│   ├── images/                     # Capturas de pantalla de alta resolución
+│   │   ├── lead_funnel_db.png
+│   │   ├── market_intelligence_summary.png
+│   │   └── operational_kpis.png
+│   └── documentation/              # PDFs con Business Case o explicaciones de KPIs
+├── dashboards/                     # Archivos fuente de BI
+│   ├── powerbi/
+│   │   ├── Market_Intelligence_v1.pbix
+│   │   └── AutoLead_Analytics_v1.pbix
+│   └── templates/                  # Archivos .pbit (plantillas sin datos)
+├── reports/                        # Enlaces y resúmenes ejecutivos
+│   ├── external_links.md           # Links a dashboards publicados (Looker, Web Publish)
+│   └── executive_summaries/        # Markdown con insights clave por tablero
+│       ├── summary_market_intel.md
+│       └── summary_lead_ops.md
+├── sql_logic/                      # Cómo transformaste los datos para BI
+│   ├── views/                      # Vistas SQL de Azure SQL
+│   │   ├── vw_fact_leads.sql
+│   │   └── vw_skill_matching_metrics.sql
+│   └── measures/                   # Fórmulas DAX documentadas
+│       └── dax_kpis.txt
+└── README.md                       # El documento principal (tu base corregida)
+```
+
+---
+
 ## Core Data Analyst Skills Demonstrated
 # Business Data Analysis
 
