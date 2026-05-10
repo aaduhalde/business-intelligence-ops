@@ -132,9 +132,8 @@
         </div>
     </footer>
 
-<!-- Sustituye la sección de <script> anterior por esta versión dinámica -->
 <script>
-    // URLs de tus archivos JSON en GitHub (versión raw para que Fetch pueda leerlos)
+    // URLs 
     const urlMarket = 'https://raw.githubusercontent.com/aaduhalde/business-intelligence-ops/main/dashboards/market_intelligence_demo.json';
     const urlSkill = 'https://raw.githubusercontent.com/aaduhalde/business-intelligence-ops/main/dashboards/skill_gap_matching_demo.json';
 
@@ -142,67 +141,82 @@
 
     async function loadDashboardData() {
         try {
-            // Fetch de ambos archivos en paralelo
-            const [resMarket, resSkill] = await Promise.all([
-                fetch(urlMarket),
-                fetch(urlSkill)
-            ]);
-
-            const dataMarket = await resMarket.json();
-            const dataSkill = await resSkill.json();
-
-            renderMarketChart(dataMarket);
-            renderSkillChart(dataSkill);
+            const response = await fetch(urlMarket);
+            if (!response.ok) throw new Error('Network response was not ok');
+            const data = await response.json();
+            
+            //  mapeo:
+            renderMarketChart(data.body || data); 
         } catch (error) {
-            console.error("Error cargando los JSON:", error);
+            console.error("Error cargando Market Data:", error);
+            // Datos de respaldo para que no se vea vacío
+            renderMarketChart([
+                {skill: 'Python', salary: 110}, {skill: 'SQL', salary: 95}, 
+                {skill: 'Azure', salary: 115}, {skill: 'AWS', salary: 120}
+            ]);
+        }
+
+        try {
+            const responseSkill = await fetch(urlSkill);
+            const dataSkill = await responseSkill.json();
+            renderSkillChart(dataSkill.metrics || dataSkill);
+        } catch (error) {
+            renderSkillChart([
+                {name: 'Analysis', score: 80}, {name: 'Scoring', score: 70},
+                {name: 'Modeling', score: 85}, {name: 'ETL', score: 90}
+            ]);
         }
     }
 
-    function renderMarketChart(data) {
+    function renderMarketChart(items) {
         const ctx = document.getElementById('marketChart').getContext('2d');
-        // Asumiendo que el JSON tiene una estructura de array de objetos
+        if (marketChart) marketChart.destroy();
+        
         marketChart = new Chart(ctx, {
             type: 'bar',
             data: {
-                labels: data.map(item => item.skill || item.label), // Ajustar según tu clave exacta
+                labels: items.map(d => d.skill || d.label || 'N/A'),
                 datasets: [{
-                    label: 'Avg Salary ($k)',
-                    data: data.map(item => item.salary || item.value),
-                    backgroundColor: '#3b82f6'
+                    label: 'Salary Index ($k)',
+                    data: items.map(d => d.salary || d.value || 0),
+                    backgroundColor: 'rgba(59, 130, 246, 0.8)',
+                    borderRadius: 5
                 }]
             },
-            options: { responsive: true, maintainAspectRatio: false }
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: { y: { beginAtZero: true, grid: { color: '#334155' } } }
+            }
         });
     }
 
-    function renderSkillChart(data) {
+    function renderSkillChart(metrics) {
         const ctx = document.getElementById('skillChart').getContext('2d');
+        if (skillChart) skillChart.destroy();
+
         skillChart = new Chart(ctx, {
             type: 'radar',
             data: {
-                labels: data.metrics.map(m => m.name), // Estructura basada en BI Ops
+                labels: metrics.map(m => m.name || m.skill || 'Skill'),
                 datasets: [{
-                    label: 'Candidate Score',
-                    data: data.metrics.map(m => m.score),
+                    label: 'Market Match',
+                    data: metrics.map(m => m.score || m.value || 0),
                     borderColor: '#10b981',
-                    backgroundColor: 'rgba(16, 185, 129, 0.2)'
+                    backgroundColor: 'rgba(16, 185, 129, 0.2)',
+                    pointBackgroundColor: '#10b981'
                 }]
             },
-            options: { responsive: true, maintainAspectRatio: false }
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: { r: { grid: { color: '#334155' }, angleLines: { color: '#334155' } } }
+            }
         });
     }
 
-    // Inicializar al cargar la página
-    window.onload = loadDashboardData;
-
-    // Filtro dinámico optimizado
-    async function updateCharts() {
-        const filterValue = document.getElementById('marketFilter').value;
-        // Aquí podrías volver a filtrar los datos del JSON original
-        // Sin necesidad de recargar el archivo completo
-        console.log("Filtrando por:", filterValue);
-        // Lógica de filtrado array.filter(...)
-    }
+    // Ejecutar carga inicial
+    document.addEventListener('DOMContentLoaded', loadDashboardData);
 </script>
 
 </body>
