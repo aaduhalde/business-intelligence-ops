@@ -1,0 +1,5538 @@
+[
+    {
+        "match_id": "MATCH-2024-0001",
+        "evaluation_date": "2024-04-23",
+        "candidate_id": "Alex D.",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Pandas",
+            "NoSQL",
+            "Docker",
+            "Power BI",
+            "AWS"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Pandas",
+            "NoSQL",
+            "Docker",
+            "AWS"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 20.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0002",
+        "evaluation_date": "2024-04-10",
+        "candidate_id": "Candidate B",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Terraform",
+            "AWS",
+            "Power BI",
+            "SQL",
+            "Python",
+            "Pandas"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "Pandas",
+            "AWS"
+        ],
+        "missing_skills": [
+            "Terraform",
+            "Power BI",
+            "SQL"
+        ],
+        "metrics": {
+            "match_score": 45,
+            "skill_coverage_pct": 50.0,
+            "gap_count": 3
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0003",
+        "evaluation_date": "2024-04-16",
+        "candidate_id": "Candidate D",
+        "target_role": "ML Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "NoSQL",
+            "Pandas",
+            "SQL",
+            "Docker",
+            "Snowflake",
+            "Airflow",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "NoSQL",
+            "Pandas",
+            "SQL",
+            "Docker",
+            "Snowflake",
+            "Airflow",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 8
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0004",
+        "evaluation_date": "2024-04-29",
+        "candidate_id": "Alex D.",
+        "target_role": "Data Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Databricks",
+            "NoSQL",
+            "Docker",
+            "Python",
+            "Snowflake",
+            "Airflow",
+            "Kubernetes"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Python"
+        ],
+        "missing_skills": [
+            "Databricks",
+            "NoSQL",
+            "Docker",
+            "Snowflake",
+            "Airflow",
+            "Kubernetes"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0005",
+        "evaluation_date": "2024-04-11",
+        "candidate_id": "Candidate C",
+        "target_role": "Data Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "SQL",
+            "Kubernetes",
+            "Airflow",
+            "Docker"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "Kubernetes",
+            "Airflow",
+            "Docker"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 25.0,
+            "gap_count": 3
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0006",
+        "evaluation_date": "2024-04-17",
+        "candidate_id": "Candidate B",
+        "target_role": "Data Analyst",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Python",
+            "Databricks",
+            "Power BI",
+            "Terraform",
+            "SQL",
+            "Azure"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python"
+        ],
+        "missing_skills": [
+            "Databricks",
+            "Power BI",
+            "Terraform",
+            "SQL",
+            "Azure"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0007",
+        "evaluation_date": "2024-04-11",
+        "candidate_id": "Alex D.",
+        "target_role": "Data Analyst",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Python",
+            "Databricks",
+            "Snowflake",
+            "Power BI",
+            "Spark"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Python",
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Databricks",
+            "Snowflake",
+            "Spark"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 40.0,
+            "gap_count": 3
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0008",
+        "evaluation_date": "2024-04-05",
+        "candidate_id": "Candidate C",
+        "target_role": "Data Analyst",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Snowflake",
+            "Terraform",
+            "Pandas",
+            "Docker",
+            "Databricks"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Snowflake",
+            "Terraform",
+            "Pandas",
+            "Docker",
+            "Databricks"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0009",
+        "evaluation_date": "2024-04-22",
+        "candidate_id": "Candidate B",
+        "target_role": "Data Analyst",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Terraform",
+            "NoSQL",
+            "Docker",
+            "Spark",
+            "Power BI",
+            "SQL",
+            "Databricks",
+            "Azure"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Docker"
+        ],
+        "missing_skills": [
+            "Terraform",
+            "NoSQL",
+            "Spark",
+            "Power BI",
+            "SQL",
+            "Databricks",
+            "Azure"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 12.5,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0010",
+        "evaluation_date": "2024-04-29",
+        "candidate_id": "Alex D.",
+        "target_role": "Data Analyst",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "SQL",
+            "Kubernetes",
+            "Terraform",
+            "Airflow",
+            "Databricks",
+            "Azure"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "SQL",
+            "Azure"
+        ],
+        "missing_skills": [
+            "Kubernetes",
+            "Terraform",
+            "Airflow",
+            "Databricks"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 33.33,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0011",
+        "evaluation_date": "2024-04-23",
+        "candidate_id": "Candidate C",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Docker",
+            "SQL",
+            "AWS",
+            "Azure"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "Docker",
+            "AWS",
+            "Azure"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 25.0,
+            "gap_count": 3
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0012",
+        "evaluation_date": "2024-04-13",
+        "candidate_id": "Candidate C",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Spark",
+            "SQL",
+            "Terraform",
+            "Power BI",
+            "Databricks"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "Spark",
+            "Terraform",
+            "Power BI",
+            "Databricks"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 20.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0013",
+        "evaluation_date": "2024-04-10",
+        "candidate_id": "Candidate E",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Terraform",
+            "Snowflake",
+            "Power BI",
+            "Azure",
+            "Docker"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Terraform",
+            "Snowflake",
+            "Azure",
+            "Docker"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 20.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0014",
+        "evaluation_date": "2024-04-29",
+        "candidate_id": "Alex D.",
+        "target_role": "Data Analyst",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "SQL",
+            "Python",
+            "Azure",
+            "Kubernetes",
+            "NoSQL"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Python",
+            "SQL",
+            "Azure"
+        ],
+        "missing_skills": [
+            "Kubernetes",
+            "NoSQL"
+        ],
+        "metrics": {
+            "match_score": 60,
+            "skill_coverage_pct": 60.0,
+            "gap_count": 2
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0015",
+        "evaluation_date": "2024-04-09",
+        "candidate_id": "Candidate B",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Azure",
+            "Kubernetes",
+            "Spark",
+            "Python",
+            "AWS",
+            "Power BI",
+            "Terraform"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "AWS"
+        ],
+        "missing_skills": [
+            "Azure",
+            "Kubernetes",
+            "Spark",
+            "Power BI",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 28.57,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0016",
+        "evaluation_date": "2024-04-16",
+        "candidate_id": "Candidate D",
+        "target_role": "Data Analyst",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Snowflake",
+            "Docker",
+            "Databricks",
+            "SQL"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Snowflake",
+            "Docker",
+            "Databricks",
+            "SQL"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0017",
+        "evaluation_date": "2024-04-07",
+        "candidate_id": "Candidate C",
+        "target_role": "ML Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "SQL",
+            "Spark",
+            "Python",
+            "Databricks",
+            "Azure",
+            "Snowflake",
+            "Terraform",
+            "Kubernetes"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "Spark",
+            "Python",
+            "Databricks",
+            "Azure",
+            "Snowflake",
+            "Terraform",
+            "Kubernetes"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 12.5,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0018",
+        "evaluation_date": "2024-04-07",
+        "candidate_id": "Candidate D",
+        "target_role": "ML Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Pandas",
+            "Azure",
+            "AWS",
+            "NoSQL",
+            "Python",
+            "Docker",
+            "Airflow"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Python"
+        ],
+        "missing_skills": [
+            "Pandas",
+            "Azure",
+            "AWS",
+            "NoSQL",
+            "Docker",
+            "Airflow"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0019",
+        "evaluation_date": "2024-04-01",
+        "candidate_id": "Candidate E",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "SQL",
+            "Snowflake",
+            "Kubernetes",
+            "Azure",
+            "Power BI",
+            "Databricks",
+            "Docker"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [
+            "Power BI"
+        ],
+        "missing_skills": [
+            "SQL",
+            "Snowflake",
+            "Kubernetes",
+            "Azure",
+            "Databricks",
+            "Docker"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0020",
+        "evaluation_date": "2024-04-22",
+        "candidate_id": "Candidate C",
+        "target_role": "Data Analyst",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "SQL",
+            "Snowflake",
+            "Pandas",
+            "Databricks",
+            "Kubernetes",
+            "Docker"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "Snowflake",
+            "Pandas",
+            "Databricks",
+            "Kubernetes",
+            "Docker"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0021",
+        "evaluation_date": "2024-04-05",
+        "candidate_id": "Candidate B",
+        "target_role": "Data Analyst",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Azure",
+            "Databricks",
+            "SQL",
+            "Power BI",
+            "Pandas",
+            "Docker"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Pandas",
+            "Docker"
+        ],
+        "missing_skills": [
+            "Azure",
+            "Databricks",
+            "SQL",
+            "Power BI"
+        ],
+        "metrics": {
+            "match_score": 20,
+            "skill_coverage_pct": 33.33,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0022",
+        "evaluation_date": "2024-04-27",
+        "candidate_id": "Candidate D",
+        "target_role": "Data Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Power BI",
+            "AWS",
+            "Kubernetes",
+            "Airflow",
+            "Python",
+            "Terraform"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Python"
+        ],
+        "missing_skills": [
+            "Power BI",
+            "AWS",
+            "Kubernetes",
+            "Airflow",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0023",
+        "evaluation_date": "2024-04-08",
+        "candidate_id": "Candidate D",
+        "target_role": "Data Analyst",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Terraform",
+            "Snowflake",
+            "Python",
+            "NoSQL",
+            "Power BI",
+            "Databricks"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Python"
+        ],
+        "missing_skills": [
+            "Terraform",
+            "Snowflake",
+            "NoSQL",
+            "Power BI",
+            "Databricks"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0024",
+        "evaluation_date": "2024-05-01",
+        "candidate_id": "Alex D.",
+        "target_role": "ML Engineer",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Snowflake",
+            "Power BI",
+            "Azure",
+            "Docker",
+            "Terraform",
+            "Airflow"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Azure",
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Snowflake",
+            "Docker",
+            "Terraform",
+            "Airflow"
+        ],
+        "metrics": {
+            "match_score": 20,
+            "skill_coverage_pct": 33.33,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0025",
+        "evaluation_date": "2024-04-09",
+        "candidate_id": "Candidate B",
+        "target_role": "Data Analyst",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Airflow",
+            "SQL",
+            "Terraform",
+            "Power BI",
+            "Pandas"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Pandas"
+        ],
+        "missing_skills": [
+            "Airflow",
+            "SQL",
+            "Terraform",
+            "Power BI"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 20.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0026",
+        "evaluation_date": "2024-04-16",
+        "candidate_id": "Candidate B",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Python",
+            "Spark",
+            "NoSQL",
+            "Azure",
+            "AWS",
+            "Kubernetes",
+            "SQL"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "AWS"
+        ],
+        "missing_skills": [
+            "Spark",
+            "NoSQL",
+            "Azure",
+            "Kubernetes",
+            "SQL"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 28.57,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0027",
+        "evaluation_date": "2024-04-09",
+        "candidate_id": "Alex D.",
+        "target_role": "Data Engineer",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Spark",
+            "Databricks",
+            "NoSQL",
+            "Pandas",
+            "Docker",
+            "Python"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Python"
+        ],
+        "missing_skills": [
+            "Spark",
+            "Databricks",
+            "NoSQL",
+            "Pandas",
+            "Docker"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0028",
+        "evaluation_date": "2024-04-17",
+        "candidate_id": "Alex D.",
+        "target_role": "Data Engineer",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Terraform",
+            "SQL",
+            "Azure",
+            "Databricks",
+            "Python",
+            "Snowflake",
+            "AWS"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Python",
+            "SQL",
+            "Azure"
+        ],
+        "missing_skills": [
+            "Terraform",
+            "Databricks",
+            "Snowflake",
+            "AWS"
+        ],
+        "metrics": {
+            "match_score": 60,
+            "skill_coverage_pct": 42.86,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0029",
+        "evaluation_date": "2024-04-11",
+        "candidate_id": "Candidate B",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Azure",
+            "Terraform",
+            "Power BI",
+            "Docker",
+            "Databricks"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Docker"
+        ],
+        "missing_skills": [
+            "Azure",
+            "Terraform",
+            "Power BI",
+            "Databricks"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 20.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0030",
+        "evaluation_date": "2024-05-01",
+        "candidate_id": "Candidate C",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Airflow",
+            "Databricks",
+            "Pandas",
+            "Python",
+            "Kubernetes",
+            "Power BI",
+            "Azure"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Airflow",
+            "Databricks",
+            "Pandas",
+            "Python",
+            "Kubernetes",
+            "Power BI",
+            "Azure"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0031",
+        "evaluation_date": "2024-05-01",
+        "candidate_id": "Candidate E",
+        "target_role": "Data Analyst",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Snowflake",
+            "SQL",
+            "Docker",
+            "Azure"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Snowflake",
+            "SQL",
+            "Docker",
+            "Azure"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0032",
+        "evaluation_date": "2024-05-01",
+        "candidate_id": "Candidate E",
+        "target_role": "Data Analyst",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Databricks",
+            "Airflow",
+            "Terraform",
+            "Kubernetes",
+            "Azure",
+            "Power BI",
+            "Spark"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Databricks",
+            "Airflow",
+            "Terraform",
+            "Kubernetes",
+            "Azure",
+            "Spark"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0033",
+        "evaluation_date": "2024-04-09",
+        "candidate_id": "Candidate E",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Databricks",
+            "Pandas",
+            "Terraform",
+            "Airflow"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Databricks",
+            "Pandas",
+            "Terraform",
+            "Airflow"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0034",
+        "evaluation_date": "2024-04-21",
+        "candidate_id": "Candidate C",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "SQL",
+            "Airflow",
+            "Databricks",
+            "Spark",
+            "Snowflake",
+            "Python"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "Airflow",
+            "Databricks",
+            "Spark",
+            "Snowflake",
+            "Python"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0035",
+        "evaluation_date": "2024-04-19",
+        "candidate_id": "Candidate B",
+        "target_role": "Data Engineer",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Docker",
+            "Terraform",
+            "Databricks",
+            "Kubernetes",
+            "SQL",
+            "Azure"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Docker"
+        ],
+        "missing_skills": [
+            "Terraform",
+            "Databricks",
+            "Kubernetes",
+            "SQL",
+            "Azure"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0036",
+        "evaluation_date": "2024-04-29",
+        "candidate_id": "Candidate C",
+        "target_role": "Data Engineer",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Python",
+            "Databricks",
+            "AWS",
+            "Docker",
+            "Airflow"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Python",
+            "Databricks",
+            "AWS",
+            "Docker",
+            "Airflow"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0037",
+        "evaluation_date": "2024-04-29",
+        "candidate_id": "Alex D.",
+        "target_role": "Data Analyst",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Python",
+            "Spark",
+            "Airflow",
+            "Docker"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Python"
+        ],
+        "missing_skills": [
+            "Spark",
+            "Airflow",
+            "Docker"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 25.0,
+            "gap_count": 3
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0038",
+        "evaluation_date": "2024-04-24",
+        "candidate_id": "Candidate B",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "NoSQL",
+            "Snowflake",
+            "Pandas",
+            "Python"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "Pandas"
+        ],
+        "missing_skills": [
+            "NoSQL",
+            "Snowflake"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 50.0,
+            "gap_count": 2
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0039",
+        "evaluation_date": "2024-04-15",
+        "candidate_id": "Candidate B",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Terraform",
+            "Kubernetes",
+            "NoSQL",
+            "Docker",
+            "Python",
+            "Pandas"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "Pandas",
+            "Docker"
+        ],
+        "missing_skills": [
+            "Terraform",
+            "Kubernetes",
+            "NoSQL"
+        ],
+        "metrics": {
+            "match_score": 45,
+            "skill_coverage_pct": 50.0,
+            "gap_count": 3
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0040",
+        "evaluation_date": "2024-04-13",
+        "candidate_id": "Candidate E",
+        "target_role": "Data Analyst",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "AWS",
+            "Power BI",
+            "Kubernetes",
+            "Databricks",
+            "Snowflake",
+            "NoSQL"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [
+            "Power BI"
+        ],
+        "missing_skills": [
+            "AWS",
+            "Kubernetes",
+            "Databricks",
+            "Snowflake",
+            "NoSQL"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0041",
+        "evaluation_date": "2024-04-29",
+        "candidate_id": "Candidate D",
+        "target_role": "ML Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Power BI",
+            "Python",
+            "NoSQL",
+            "Pandas",
+            "Docker",
+            "Airflow"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Python"
+        ],
+        "missing_skills": [
+            "Power BI",
+            "NoSQL",
+            "Pandas",
+            "Docker",
+            "Airflow"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0042",
+        "evaluation_date": "2024-04-29",
+        "candidate_id": "Alex D.",
+        "target_role": "Data Analyst",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "NoSQL",
+            "Spark",
+            "SQL",
+            "Azure",
+            "AWS"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "SQL",
+            "Azure"
+        ],
+        "missing_skills": [
+            "NoSQL",
+            "Spark",
+            "AWS"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 40.0,
+            "gap_count": 3
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0043",
+        "evaluation_date": "2024-04-08",
+        "candidate_id": "Candidate D",
+        "target_role": "ML Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Power BI",
+            "Airflow",
+            "Docker",
+            "Python",
+            "NoSQL",
+            "AWS"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Python"
+        ],
+        "missing_skills": [
+            "Power BI",
+            "Airflow",
+            "Docker",
+            "NoSQL",
+            "AWS"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0044",
+        "evaluation_date": "2024-04-03",
+        "candidate_id": "Candidate E",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "SQL",
+            "Snowflake",
+            "Power BI",
+            "AWS",
+            "Terraform"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [
+            "Power BI"
+        ],
+        "missing_skills": [
+            "SQL",
+            "Snowflake",
+            "AWS",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 20.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0045",
+        "evaluation_date": "2024-04-30",
+        "candidate_id": "Candidate D",
+        "target_role": "Data Analyst",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Databricks",
+            "NoSQL",
+            "Kubernetes",
+            "Snowflake",
+            "Python",
+            "Docker",
+            "Terraform"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Python"
+        ],
+        "missing_skills": [
+            "Databricks",
+            "NoSQL",
+            "Kubernetes",
+            "Snowflake",
+            "Docker",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0046",
+        "evaluation_date": "2024-04-08",
+        "candidate_id": "Candidate D",
+        "target_role": "Data Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Pandas",
+            "Docker",
+            "Terraform",
+            "Snowflake",
+            "Spark",
+            "Python",
+            "NoSQL",
+            "Airflow"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Python",
+            "Spark"
+        ],
+        "missing_skills": [
+            "Pandas",
+            "Docker",
+            "Terraform",
+            "Snowflake",
+            "NoSQL",
+            "Airflow"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 25.0,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0047",
+        "evaluation_date": "2024-04-04",
+        "candidate_id": "Candidate D",
+        "target_role": "ML Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "SQL",
+            "NoSQL",
+            "Python",
+            "Snowflake",
+            "Pandas"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Python"
+        ],
+        "missing_skills": [
+            "SQL",
+            "NoSQL",
+            "Snowflake",
+            "Pandas"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 20.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0048",
+        "evaluation_date": "2024-04-23",
+        "candidate_id": "Candidate E",
+        "target_role": "Data Analyst",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Kubernetes",
+            "Terraform",
+            "Snowflake",
+            "Databricks",
+            "Power BI",
+            "Airflow",
+            "Python",
+            "Spark"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Kubernetes",
+            "Terraform",
+            "Snowflake",
+            "Databricks",
+            "Airflow",
+            "Python",
+            "Spark"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 12.5,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0049",
+        "evaluation_date": "2024-04-23",
+        "candidate_id": "Candidate E",
+        "target_role": "ML Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Databricks",
+            "Airflow",
+            "AWS",
+            "Python",
+            "Kubernetes",
+            "Pandas",
+            "Terraform",
+            "Power BI"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Databricks",
+            "Airflow",
+            "AWS",
+            "Python",
+            "Kubernetes",
+            "Pandas",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 12.5,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0050",
+        "evaluation_date": "2024-04-20",
+        "candidate_id": "Candidate E",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Power BI",
+            "Airflow",
+            "NoSQL",
+            "Snowflake",
+            "AWS",
+            "Kubernetes",
+            "Databricks"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Airflow",
+            "NoSQL",
+            "Snowflake",
+            "AWS",
+            "Kubernetes",
+            "Databricks"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0051",
+        "evaluation_date": "2024-04-01",
+        "candidate_id": "Candidate C",
+        "target_role": "Data Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Snowflake",
+            "Azure",
+            "Python",
+            "Docker",
+            "Spark",
+            "Terraform",
+            "Databricks"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Snowflake",
+            "Azure",
+            "Python",
+            "Docker",
+            "Spark",
+            "Terraform",
+            "Databricks"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0052",
+        "evaluation_date": "2024-04-27",
+        "candidate_id": "Candidate C",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "NoSQL",
+            "AWS",
+            "Power BI",
+            "Snowflake",
+            "Airflow"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "NoSQL",
+            "AWS",
+            "Power BI",
+            "Snowflake",
+            "Airflow"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0053",
+        "evaluation_date": "2024-04-07",
+        "candidate_id": "Candidate E",
+        "target_role": "ML Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Spark",
+            "Azure",
+            "Terraform",
+            "Python",
+            "AWS",
+            "NoSQL",
+            "SQL",
+            "Kubernetes"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Spark",
+            "Azure",
+            "Terraform",
+            "Python",
+            "AWS",
+            "NoSQL",
+            "SQL",
+            "Kubernetes"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 8
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0054",
+        "evaluation_date": "2024-04-15",
+        "candidate_id": "Candidate B",
+        "target_role": "Data Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Python",
+            "Airflow",
+            "Azure",
+            "Docker"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "Docker"
+        ],
+        "missing_skills": [
+            "Airflow",
+            "Azure"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 50.0,
+            "gap_count": 2
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0055",
+        "evaluation_date": "2024-04-13",
+        "candidate_id": "Candidate D",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Python",
+            "AWS",
+            "Kubernetes",
+            "Docker",
+            "Airflow"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Python"
+        ],
+        "missing_skills": [
+            "AWS",
+            "Kubernetes",
+            "Docker",
+            "Airflow"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 20.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0056",
+        "evaluation_date": "2024-04-27",
+        "candidate_id": "Candidate E",
+        "target_role": "Data Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Pandas",
+            "Azure",
+            "SQL",
+            "Terraform"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Pandas",
+            "Azure",
+            "SQL",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0057",
+        "evaluation_date": "2024-04-03",
+        "candidate_id": "Alex D.",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Terraform",
+            "Python",
+            "SQL",
+            "Airflow",
+            "Snowflake",
+            "AWS"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Python",
+            "SQL"
+        ],
+        "missing_skills": [
+            "Terraform",
+            "Airflow",
+            "Snowflake",
+            "AWS"
+        ],
+        "metrics": {
+            "match_score": 50,
+            "skill_coverage_pct": 33.33,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0058",
+        "evaluation_date": "2024-04-08",
+        "candidate_id": "Candidate D",
+        "target_role": "Analytics Engineer",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "SQL",
+            "Kubernetes",
+            "Snowflake",
+            "Databricks",
+            "Terraform"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "SQL",
+            "Kubernetes",
+            "Snowflake",
+            "Databricks",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0059",
+        "evaluation_date": "2024-04-15",
+        "candidate_id": "Candidate B",
+        "target_role": "ML Engineer",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Spark",
+            "Docker",
+            "Databricks",
+            "Airflow",
+            "Kubernetes"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Docker"
+        ],
+        "missing_skills": [
+            "Spark",
+            "Databricks",
+            "Airflow",
+            "Kubernetes"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 20.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0060",
+        "evaluation_date": "2024-04-19",
+        "candidate_id": "Alex D.",
+        "target_role": "Data Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Spark",
+            "Docker",
+            "Power BI",
+            "Python"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Python",
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Spark",
+            "Docker"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 50.0,
+            "gap_count": 2
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0061",
+        "evaluation_date": "2024-04-01",
+        "candidate_id": "Candidate C",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Python",
+            "Power BI",
+            "Airflow",
+            "SQL",
+            "Spark",
+            "Snowflake",
+            "Azure",
+            "Databricks"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "Python",
+            "Power BI",
+            "Airflow",
+            "Spark",
+            "Snowflake",
+            "Azure",
+            "Databricks"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 12.5,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0062",
+        "evaluation_date": "2024-04-10",
+        "candidate_id": "Candidate E",
+        "target_role": "Data Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Spark",
+            "Power BI",
+            "Snowflake",
+            "Python",
+            "Terraform"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Spark",
+            "Snowflake",
+            "Python",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 20.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0063",
+        "evaluation_date": "2024-04-20",
+        "candidate_id": "Alex D.",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Spark",
+            "Databricks",
+            "AWS",
+            "Power BI",
+            "Docker",
+            "SQL",
+            "Pandas",
+            "Airflow"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "SQL",
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Spark",
+            "Databricks",
+            "AWS",
+            "Docker",
+            "Pandas",
+            "Airflow"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 25.0,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0064",
+        "evaluation_date": "2024-04-23",
+        "candidate_id": "Candidate D",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Spark",
+            "Terraform",
+            "Airflow",
+            "Kubernetes",
+            "NoSQL",
+            "Databricks",
+            "Pandas",
+            "Azure"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Spark"
+        ],
+        "missing_skills": [
+            "Terraform",
+            "Airflow",
+            "Kubernetes",
+            "NoSQL",
+            "Databricks",
+            "Pandas",
+            "Azure"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 12.5,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0065",
+        "evaluation_date": "2024-04-09",
+        "candidate_id": "Candidate B",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Python",
+            "Spark",
+            "NoSQL",
+            "Pandas"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "Pandas"
+        ],
+        "missing_skills": [
+            "Spark",
+            "NoSQL"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 50.0,
+            "gap_count": 2
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0066",
+        "evaluation_date": "2024-04-30",
+        "candidate_id": "Alex D.",
+        "target_role": "Data Engineer",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Airflow",
+            "Azure",
+            "Spark",
+            "Kubernetes",
+            "Pandas",
+            "Databricks"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Azure"
+        ],
+        "missing_skills": [
+            "Airflow",
+            "Spark",
+            "Kubernetes",
+            "Pandas",
+            "Databricks"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0067",
+        "evaluation_date": "2024-04-14",
+        "candidate_id": "Candidate C",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Spark",
+            "Power BI",
+            "Snowflake",
+            "AWS"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Spark",
+            "Power BI",
+            "Snowflake",
+            "AWS"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0068",
+        "evaluation_date": "2024-04-17",
+        "candidate_id": "Candidate C",
+        "target_role": "Data Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Airflow",
+            "Pandas",
+            "Kubernetes",
+            "Spark",
+            "Databricks",
+            "Terraform",
+            "Snowflake"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Airflow",
+            "Pandas",
+            "Kubernetes",
+            "Spark",
+            "Databricks",
+            "Terraform",
+            "Snowflake"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0069",
+        "evaluation_date": "2024-04-06",
+        "candidate_id": "Alex D.",
+        "target_role": "ML Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "SQL",
+            "NoSQL",
+            "Docker",
+            "Pandas",
+            "Airflow",
+            "Databricks",
+            "AWS"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "NoSQL",
+            "Docker",
+            "Pandas",
+            "Airflow",
+            "Databricks",
+            "AWS"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0070",
+        "evaluation_date": "2024-04-18",
+        "candidate_id": "Candidate B",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Power BI",
+            "Databricks",
+            "Pandas",
+            "Azure",
+            "Airflow",
+            "Snowflake"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Pandas"
+        ],
+        "missing_skills": [
+            "Power BI",
+            "Databricks",
+            "Azure",
+            "Airflow",
+            "Snowflake"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0071",
+        "evaluation_date": "2024-04-24",
+        "candidate_id": "Candidate C",
+        "target_role": "Data Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Databricks",
+            "Snowflake",
+            "Azure",
+            "Kubernetes",
+            "Terraform",
+            "Spark",
+            "SQL",
+            "Airflow"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "Databricks",
+            "Snowflake",
+            "Azure",
+            "Kubernetes",
+            "Terraform",
+            "Spark",
+            "Airflow"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 12.5,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0072",
+        "evaluation_date": "2024-04-09",
+        "candidate_id": "Candidate D",
+        "target_role": "Data Engineer",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Azure",
+            "Airflow",
+            "Python",
+            "Pandas",
+            "Snowflake",
+            "Power BI"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Python"
+        ],
+        "missing_skills": [
+            "Azure",
+            "Airflow",
+            "Pandas",
+            "Snowflake",
+            "Power BI"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0073",
+        "evaluation_date": "2024-04-30",
+        "candidate_id": "Alex D.",
+        "target_role": "Data Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Databricks",
+            "Kubernetes",
+            "Pandas",
+            "SQL",
+            "Terraform",
+            "Airflow",
+            "NoSQL"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "Databricks",
+            "Kubernetes",
+            "Pandas",
+            "Terraform",
+            "Airflow",
+            "NoSQL"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0074",
+        "evaluation_date": "2024-04-07",
+        "candidate_id": "Candidate C",
+        "target_role": "Data Engineer",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Spark",
+            "Kubernetes",
+            "Python",
+            "Snowflake",
+            "Airflow",
+            "SQL",
+            "Pandas"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "Spark",
+            "Kubernetes",
+            "Python",
+            "Snowflake",
+            "Airflow",
+            "Pandas"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0075",
+        "evaluation_date": "2024-04-17",
+        "candidate_id": "Candidate B",
+        "target_role": "ML Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Databricks",
+            "Kubernetes",
+            "Power BI",
+            "Python",
+            "Spark",
+            "AWS"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "AWS"
+        ],
+        "missing_skills": [
+            "Databricks",
+            "Kubernetes",
+            "Power BI",
+            "Spark"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 33.33,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0076",
+        "evaluation_date": "2024-04-15",
+        "candidate_id": "Candidate B",
+        "target_role": "Data Analyst",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "NoSQL",
+            "Pandas",
+            "Spark",
+            "Snowflake",
+            "Docker",
+            "Databricks",
+            "Azure",
+            "Python"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "Pandas",
+            "Docker"
+        ],
+        "missing_skills": [
+            "NoSQL",
+            "Spark",
+            "Snowflake",
+            "Databricks",
+            "Azure"
+        ],
+        "metrics": {
+            "match_score": 45,
+            "skill_coverage_pct": 37.5,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0077",
+        "evaluation_date": "2024-04-07",
+        "candidate_id": "Candidate B",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Airflow",
+            "Kubernetes",
+            "Terraform",
+            "SQL",
+            "Spark",
+            "Snowflake",
+            "Python"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python"
+        ],
+        "missing_skills": [
+            "Airflow",
+            "Kubernetes",
+            "Terraform",
+            "SQL",
+            "Spark",
+            "Snowflake"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0078",
+        "evaluation_date": "2024-04-30",
+        "candidate_id": "Alex D.",
+        "target_role": "ML Engineer",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "AWS",
+            "Pandas",
+            "Power BI",
+            "Snowflake",
+            "Spark",
+            "Databricks",
+            "Kubernetes"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Power BI"
+        ],
+        "missing_skills": [
+            "AWS",
+            "Pandas",
+            "Snowflake",
+            "Spark",
+            "Databricks",
+            "Kubernetes"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0079",
+        "evaluation_date": "2024-04-03",
+        "candidate_id": "Alex D.",
+        "target_role": "ML Engineer",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Kubernetes",
+            "NoSQL",
+            "Databricks",
+            "SQL",
+            "Airflow",
+            "Power BI",
+            "Snowflake"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "SQL",
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Kubernetes",
+            "NoSQL",
+            "Databricks",
+            "Airflow",
+            "Snowflake"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 28.57,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0080",
+        "evaluation_date": "2024-04-23",
+        "candidate_id": "Candidate E",
+        "target_role": "Data Analyst",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Databricks",
+            "Python",
+            "Terraform",
+            "Kubernetes",
+            "Docker",
+            "Snowflake",
+            "NoSQL"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Databricks",
+            "Python",
+            "Terraform",
+            "Kubernetes",
+            "Docker",
+            "Snowflake",
+            "NoSQL"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0081",
+        "evaluation_date": "2024-04-19",
+        "candidate_id": "Candidate B",
+        "target_role": "Data Analyst",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Power BI",
+            "AWS",
+            "Spark",
+            "Terraform",
+            "Docker"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Docker",
+            "AWS"
+        ],
+        "missing_skills": [
+            "Power BI",
+            "Spark",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 20,
+            "skill_coverage_pct": 40.0,
+            "gap_count": 3
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0082",
+        "evaluation_date": "2024-04-12",
+        "candidate_id": "Candidate B",
+        "target_role": "Data Analyst",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Pandas",
+            "Power BI",
+            "SQL",
+            "AWS",
+            "Databricks",
+            "Snowflake"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Pandas",
+            "AWS"
+        ],
+        "missing_skills": [
+            "Power BI",
+            "SQL",
+            "Databricks",
+            "Snowflake"
+        ],
+        "metrics": {
+            "match_score": 20,
+            "skill_coverage_pct": 33.33,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0083",
+        "evaluation_date": "2024-04-21",
+        "candidate_id": "Alex D.",
+        "target_role": "Data Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Docker",
+            "Databricks",
+            "Spark",
+            "Azure",
+            "Airflow"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Azure"
+        ],
+        "missing_skills": [
+            "Docker",
+            "Databricks",
+            "Spark",
+            "Airflow"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 20.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0084",
+        "evaluation_date": "2024-04-18",
+        "candidate_id": "Candidate E",
+        "target_role": "ML Engineer",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Power BI",
+            "Databricks",
+            "SQL",
+            "Docker",
+            "Azure",
+            "Snowflake",
+            "Pandas",
+            "NoSQL"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Databricks",
+            "SQL",
+            "Docker",
+            "Azure",
+            "Snowflake",
+            "Pandas",
+            "NoSQL"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 12.5,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0085",
+        "evaluation_date": "2024-04-04",
+        "candidate_id": "Candidate D",
+        "target_role": "Data Engineer",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Pandas",
+            "Terraform",
+            "Python",
+            "Docker",
+            "Azure",
+            "Power BI"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Python"
+        ],
+        "missing_skills": [
+            "Pandas",
+            "Terraform",
+            "Docker",
+            "Azure",
+            "Power BI"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0086",
+        "evaluation_date": "2024-04-04",
+        "candidate_id": "Candidate D",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Snowflake",
+            "Databricks",
+            "SQL",
+            "Azure",
+            "Kubernetes",
+            "Spark",
+            "Terraform"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Spark"
+        ],
+        "missing_skills": [
+            "Snowflake",
+            "Databricks",
+            "SQL",
+            "Azure",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0087",
+        "evaluation_date": "2024-04-09",
+        "candidate_id": "Candidate E",
+        "target_role": "Data Analyst",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Azure",
+            "Databricks",
+            "Snowflake",
+            "Pandas"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Azure",
+            "Databricks",
+            "Snowflake",
+            "Pandas"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0088",
+        "evaluation_date": "2024-04-21",
+        "candidate_id": "Candidate C",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Docker",
+            "Spark",
+            "Airflow",
+            "Power BI",
+            "Python",
+            "Terraform"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Docker",
+            "Spark",
+            "Airflow",
+            "Power BI",
+            "Python",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0089",
+        "evaluation_date": "2024-04-19",
+        "candidate_id": "Alex D.",
+        "target_role": "Data Analyst",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Airflow",
+            "AWS",
+            "Terraform",
+            "Power BI",
+            "Snowflake",
+            "Docker",
+            "Databricks",
+            "Azure"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Azure",
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Airflow",
+            "AWS",
+            "Terraform",
+            "Snowflake",
+            "Docker",
+            "Databricks"
+        ],
+        "metrics": {
+            "match_score": 20,
+            "skill_coverage_pct": 25.0,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0090",
+        "evaluation_date": "2024-05-01",
+        "candidate_id": "Candidate C",
+        "target_role": "Data Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Python",
+            "Kubernetes",
+            "Spark",
+            "Airflow",
+            "Terraform",
+            "Power BI",
+            "Docker"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Python",
+            "Kubernetes",
+            "Spark",
+            "Airflow",
+            "Terraform",
+            "Power BI",
+            "Docker"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0091",
+        "evaluation_date": "2024-04-24",
+        "candidate_id": "Alex D.",
+        "target_role": "Data Analyst",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "NoSQL",
+            "Spark",
+            "Databricks",
+            "Snowflake",
+            "Kubernetes",
+            "Python",
+            "Azure"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Python",
+            "Azure"
+        ],
+        "missing_skills": [
+            "NoSQL",
+            "Spark",
+            "Databricks",
+            "Snowflake",
+            "Kubernetes"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 28.57,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0092",
+        "evaluation_date": "2024-04-20",
+        "candidate_id": "Candidate D",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "AWS",
+            "Python",
+            "Snowflake",
+            "Airflow",
+            "Power BI",
+            "Spark"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Python",
+            "Spark"
+        ],
+        "missing_skills": [
+            "AWS",
+            "Snowflake",
+            "Airflow",
+            "Power BI"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 33.33,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0093",
+        "evaluation_date": "2024-04-12",
+        "candidate_id": "Candidate B",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "NoSQL",
+            "Python",
+            "Snowflake",
+            "Spark",
+            "Docker"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "Docker"
+        ],
+        "missing_skills": [
+            "NoSQL",
+            "Snowflake",
+            "Spark"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 40.0,
+            "gap_count": 3
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0094",
+        "evaluation_date": "2024-04-02",
+        "candidate_id": "Candidate B",
+        "target_role": "Data Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Airflow",
+            "Python",
+            "Snowflake",
+            "Power BI",
+            "Spark",
+            "AWS",
+            "Azure"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "AWS"
+        ],
+        "missing_skills": [
+            "Airflow",
+            "Snowflake",
+            "Power BI",
+            "Spark",
+            "Azure"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 28.57,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0095",
+        "evaluation_date": "2024-04-07",
+        "candidate_id": "Candidate B",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "NoSQL",
+            "SQL",
+            "Airflow",
+            "Power BI",
+            "Snowflake",
+            "Python",
+            "Docker",
+            "Spark"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "Docker"
+        ],
+        "missing_skills": [
+            "NoSQL",
+            "SQL",
+            "Airflow",
+            "Power BI",
+            "Snowflake",
+            "Spark"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 25.0,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0096",
+        "evaluation_date": "2024-04-03",
+        "candidate_id": "Candidate C",
+        "target_role": "Data Analyst",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Power BI",
+            "Pandas",
+            "Snowflake",
+            "Airflow",
+            "Docker",
+            "AWS",
+            "Spark",
+            "SQL"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "Power BI",
+            "Pandas",
+            "Snowflake",
+            "Airflow",
+            "Docker",
+            "AWS",
+            "Spark"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 12.5,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0097",
+        "evaluation_date": "2024-04-20",
+        "candidate_id": "Candidate D",
+        "target_role": "Data Analyst",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Docker",
+            "Azure",
+            "NoSQL",
+            "Databricks",
+            "Spark",
+            "Pandas",
+            "Snowflake"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Spark"
+        ],
+        "missing_skills": [
+            "Docker",
+            "Azure",
+            "NoSQL",
+            "Databricks",
+            "Pandas",
+            "Snowflake"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0098",
+        "evaluation_date": "2024-04-16",
+        "candidate_id": "Candidate B",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Databricks",
+            "Azure",
+            "Pandas",
+            "NoSQL",
+            "Spark",
+            "Terraform"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Pandas"
+        ],
+        "missing_skills": [
+            "Databricks",
+            "Azure",
+            "NoSQL",
+            "Spark",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0099",
+        "evaluation_date": "2024-04-16",
+        "candidate_id": "Candidate B",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Spark",
+            "Terraform",
+            "Databricks",
+            "NoSQL",
+            "Airflow",
+            "Pandas",
+            "Power BI"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Pandas"
+        ],
+        "missing_skills": [
+            "Spark",
+            "Terraform",
+            "Databricks",
+            "NoSQL",
+            "Airflow",
+            "Power BI"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0100",
+        "evaluation_date": "2024-04-27",
+        "candidate_id": "Candidate E",
+        "target_role": "Data Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Airflow",
+            "Azure",
+            "Databricks",
+            "Kubernetes"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Airflow",
+            "Azure",
+            "Databricks",
+            "Kubernetes"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0101",
+        "evaluation_date": "2024-04-26",
+        "candidate_id": "Candidate B",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Docker",
+            "AWS",
+            "Power BI",
+            "SQL",
+            "Terraform",
+            "Pandas",
+            "Airflow"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "missing_skills": [
+            "Power BI",
+            "SQL",
+            "Terraform",
+            "Airflow"
+        ],
+        "metrics": {
+            "match_score": 30,
+            "skill_coverage_pct": 42.86,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0102",
+        "evaluation_date": "2024-04-02",
+        "candidate_id": "Candidate B",
+        "target_role": "ML Engineer",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Snowflake",
+            "Power BI",
+            "Kubernetes",
+            "Docker",
+            "NoSQL",
+            "Terraform",
+            "SQL",
+            "Python"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "Docker"
+        ],
+        "missing_skills": [
+            "Snowflake",
+            "Power BI",
+            "Kubernetes",
+            "NoSQL",
+            "Terraform",
+            "SQL"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 25.0,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0103",
+        "evaluation_date": "2024-04-12",
+        "candidate_id": "Candidate C",
+        "target_role": "Data Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Power BI",
+            "Python",
+            "Terraform",
+            "SQL",
+            "Snowflake",
+            "Airflow",
+            "Spark",
+            "Databricks"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "Power BI",
+            "Python",
+            "Terraform",
+            "Snowflake",
+            "Airflow",
+            "Spark",
+            "Databricks"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 12.5,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0104",
+        "evaluation_date": "2024-04-16",
+        "candidate_id": "Candidate D",
+        "target_role": "Data Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Azure",
+            "Kubernetes",
+            "NoSQL",
+            "Databricks",
+            "Pandas",
+            "Docker"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Azure",
+            "Kubernetes",
+            "NoSQL",
+            "Databricks",
+            "Pandas",
+            "Docker"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0105",
+        "evaluation_date": "2024-04-27",
+        "candidate_id": "Candidate D",
+        "target_role": "Data Analyst",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Snowflake",
+            "Databricks",
+            "Azure",
+            "Terraform",
+            "Spark",
+            "Pandas",
+            "AWS"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Spark"
+        ],
+        "missing_skills": [
+            "Snowflake",
+            "Databricks",
+            "Azure",
+            "Terraform",
+            "Pandas",
+            "AWS"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0106",
+        "evaluation_date": "2024-04-13",
+        "candidate_id": "Candidate C",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Spark",
+            "Kubernetes",
+            "SQL",
+            "Terraform",
+            "Azure",
+            "AWS",
+            "Docker",
+            "Databricks"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "Spark",
+            "Kubernetes",
+            "Terraform",
+            "Azure",
+            "AWS",
+            "Docker",
+            "Databricks"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 12.5,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0107",
+        "evaluation_date": "2024-04-18",
+        "candidate_id": "Candidate B",
+        "target_role": "ML Engineer",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Python",
+            "Snowflake",
+            "AWS",
+            "Docker"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "Docker",
+            "AWS"
+        ],
+        "missing_skills": [
+            "Snowflake"
+        ],
+        "metrics": {
+            "match_score": 45,
+            "skill_coverage_pct": 75.0,
+            "gap_count": 1
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0108",
+        "evaluation_date": "2024-04-24",
+        "candidate_id": "Candidate E",
+        "target_role": "Data Analyst",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Azure",
+            "Snowflake",
+            "Airflow",
+            "Python",
+            "SQL",
+            "Databricks",
+            "AWS",
+            "Pandas"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Azure",
+            "Snowflake",
+            "Airflow",
+            "Python",
+            "SQL",
+            "Databricks",
+            "AWS",
+            "Pandas"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 8
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0109",
+        "evaluation_date": "2024-04-30",
+        "candidate_id": "Candidate E",
+        "target_role": "Data Analyst",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Airflow",
+            "Power BI",
+            "Azure",
+            "Terraform",
+            "Databricks"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Airflow",
+            "Azure",
+            "Terraform",
+            "Databricks"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 20.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0110",
+        "evaluation_date": "2024-04-10",
+        "candidate_id": "Candidate E",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Snowflake",
+            "Databricks",
+            "Azure",
+            "Power BI",
+            "Kubernetes",
+            "Airflow",
+            "SQL"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Snowflake",
+            "Databricks",
+            "Azure",
+            "Kubernetes",
+            "Airflow",
+            "SQL"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0111",
+        "evaluation_date": "2024-04-27",
+        "candidate_id": "Candidate B",
+        "target_role": "ML Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Spark",
+            "Databricks",
+            "Kubernetes",
+            "Airflow"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Spark",
+            "Databricks",
+            "Kubernetes",
+            "Airflow"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0112",
+        "evaluation_date": "2024-04-13",
+        "candidate_id": "Candidate B",
+        "target_role": "ML Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Spark",
+            "Python",
+            "Docker",
+            "NoSQL",
+            "Databricks"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "Docker"
+        ],
+        "missing_skills": [
+            "Spark",
+            "NoSQL",
+            "Databricks"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 40.0,
+            "gap_count": 3
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0113",
+        "evaluation_date": "2024-04-05",
+        "candidate_id": "Candidate E",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "NoSQL",
+            "Airflow",
+            "Kubernetes",
+            "Snowflake"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "NoSQL",
+            "Airflow",
+            "Kubernetes",
+            "Snowflake"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0114",
+        "evaluation_date": "2024-04-06",
+        "candidate_id": "Candidate D",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Airflow",
+            "Spark",
+            "Kubernetes",
+            "NoSQL",
+            "Power BI",
+            "Azure"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Spark"
+        ],
+        "missing_skills": [
+            "Airflow",
+            "Kubernetes",
+            "NoSQL",
+            "Power BI",
+            "Azure"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0115",
+        "evaluation_date": "2024-04-29",
+        "candidate_id": "Candidate D",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Docker",
+            "Pandas",
+            "Python",
+            "Snowflake",
+            "Terraform"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Python"
+        ],
+        "missing_skills": [
+            "Docker",
+            "Pandas",
+            "Snowflake",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 20.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0116",
+        "evaluation_date": "2024-04-02",
+        "candidate_id": "Candidate D",
+        "target_role": "Analytics Engineer",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Airflow",
+            "Azure",
+            "Docker",
+            "Spark",
+            "Databricks",
+            "SQL"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Spark"
+        ],
+        "missing_skills": [
+            "Airflow",
+            "Azure",
+            "Docker",
+            "Databricks",
+            "SQL"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0117",
+        "evaluation_date": "2024-04-16",
+        "candidate_id": "Candidate E",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Azure",
+            "NoSQL",
+            "Spark",
+            "AWS"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Azure",
+            "NoSQL",
+            "Spark",
+            "AWS"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0118",
+        "evaluation_date": "2024-04-13",
+        "candidate_id": "Candidate B",
+        "target_role": "Data Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Snowflake",
+            "Spark",
+            "Azure",
+            "Docker",
+            "Python",
+            "Terraform"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "Docker"
+        ],
+        "missing_skills": [
+            "Snowflake",
+            "Spark",
+            "Azure",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 33.33,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0119",
+        "evaluation_date": "2024-04-14",
+        "candidate_id": "Candidate E",
+        "target_role": "ML Engineer",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Airflow",
+            "Snowflake",
+            "Spark",
+            "Kubernetes",
+            "Power BI",
+            "Terraform",
+            "AWS"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Airflow",
+            "Snowflake",
+            "Spark",
+            "Kubernetes",
+            "Terraform",
+            "AWS"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0120",
+        "evaluation_date": "2024-04-01",
+        "candidate_id": "Candidate D",
+        "target_role": "Data Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Azure",
+            "Snowflake",
+            "Pandas",
+            "Power BI",
+            "NoSQL"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Azure",
+            "Snowflake",
+            "Pandas",
+            "Power BI",
+            "NoSQL"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0121",
+        "evaluation_date": "2024-04-16",
+        "candidate_id": "Alex D.",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Python",
+            "Pandas",
+            "Airflow",
+            "Azure"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Python",
+            "Azure"
+        ],
+        "missing_skills": [
+            "Pandas",
+            "Airflow"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 50.0,
+            "gap_count": 2
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0122",
+        "evaluation_date": "2024-04-18",
+        "candidate_id": "Candidate C",
+        "target_role": "Data Engineer",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Airflow",
+            "Databricks",
+            "Terraform",
+            "NoSQL",
+            "Pandas",
+            "Snowflake",
+            "SQL"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "Airflow",
+            "Databricks",
+            "Terraform",
+            "NoSQL",
+            "Pandas",
+            "Snowflake"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0123",
+        "evaluation_date": "2024-05-01",
+        "candidate_id": "Candidate D",
+        "target_role": "ML Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Databricks",
+            "Kubernetes",
+            "Azure",
+            "Power BI",
+            "AWS",
+            "NoSQL",
+            "Pandas"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Databricks",
+            "Kubernetes",
+            "Azure",
+            "Power BI",
+            "AWS",
+            "NoSQL",
+            "Pandas"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0124",
+        "evaluation_date": "2024-04-29",
+        "candidate_id": "Candidate C",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "AWS",
+            "Azure",
+            "Python",
+            "Docker"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "AWS",
+            "Azure",
+            "Python",
+            "Docker"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0125",
+        "evaluation_date": "2024-04-07",
+        "candidate_id": "Alex D.",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "Airflow",
+            "Python",
+            "Power BI",
+            "Docker",
+            "SQL",
+            "Databricks"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Python",
+            "SQL",
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Airflow",
+            "Docker",
+            "Databricks"
+        ],
+        "metrics": {
+            "match_score": 60,
+            "skill_coverage_pct": 50.0,
+            "gap_count": 3
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0126",
+        "evaluation_date": "2024-04-25",
+        "candidate_id": "Candidate E",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Snowflake",
+            "Spark",
+            "Airflow",
+            "Databricks",
+            "Azure"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Snowflake",
+            "Spark",
+            "Airflow",
+            "Databricks",
+            "Azure"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0127",
+        "evaluation_date": "2024-04-25",
+        "candidate_id": "Candidate E",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Azure",
+            "Pandas",
+            "Python",
+            "AWS"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Azure",
+            "Pandas",
+            "Python",
+            "AWS"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0128",
+        "evaluation_date": "2024-04-07",
+        "candidate_id": "Candidate B",
+        "target_role": "Data Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "NoSQL",
+            "SQL",
+            "AWS",
+            "Azure",
+            "Kubernetes",
+            "Airflow"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "AWS"
+        ],
+        "missing_skills": [
+            "NoSQL",
+            "SQL",
+            "Azure",
+            "Kubernetes",
+            "Airflow"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0129",
+        "evaluation_date": "2024-04-02",
+        "candidate_id": "Candidate B",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "NoSQL",
+            "Pandas",
+            "Spark",
+            "Python",
+            "Power BI",
+            "Databricks",
+            "Azure"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Python",
+            "Pandas"
+        ],
+        "missing_skills": [
+            "NoSQL",
+            "Spark",
+            "Power BI",
+            "Databricks",
+            "Azure"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 28.57,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0130",
+        "evaluation_date": "2024-04-03",
+        "candidate_id": "Candidate E",
+        "target_role": "Data Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Python",
+            "Databricks",
+            "Docker",
+            "Airflow",
+            "Azure",
+            "Kubernetes",
+            "Spark"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Python",
+            "Databricks",
+            "Docker",
+            "Airflow",
+            "Azure",
+            "Kubernetes",
+            "Spark"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0131",
+        "evaluation_date": "2024-04-30",
+        "candidate_id": "Candidate D",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "NoSQL",
+            "SQL",
+            "Docker",
+            "Kubernetes",
+            "Spark",
+            "Python"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Python",
+            "Spark"
+        ],
+        "missing_skills": [
+            "NoSQL",
+            "SQL",
+            "Docker",
+            "Kubernetes"
+        ],
+        "metrics": {
+            "match_score": 35,
+            "skill_coverage_pct": 33.33,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0132",
+        "evaluation_date": "2024-04-11",
+        "candidate_id": "Candidate B",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Snowflake",
+            "Spark",
+            "AWS",
+            "Azure",
+            "Power BI"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "AWS"
+        ],
+        "missing_skills": [
+            "Snowflake",
+            "Spark",
+            "Azure",
+            "Power BI"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 20.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0133",
+        "evaluation_date": "2024-04-06",
+        "candidate_id": "Candidate D",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "SQL",
+            "AWS",
+            "Docker",
+            "Spark",
+            "Snowflake"
+        ],
+        "candidate_current_skills": [
+            "Machine Learning",
+            "Python",
+            "R",
+            "Spark"
+        ],
+        "matched_skills": [
+            "Spark"
+        ],
+        "missing_skills": [
+            "SQL",
+            "AWS",
+            "Docker",
+            "Snowflake"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 20.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0134",
+        "evaluation_date": "2024-04-06",
+        "candidate_id": "Candidate C",
+        "target_role": "Analytics Engineer",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Azure",
+            "Docker",
+            "Spark",
+            "Pandas",
+            "Airflow",
+            "AWS",
+            "Kubernetes"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Azure",
+            "Docker",
+            "Spark",
+            "Pandas",
+            "Airflow",
+            "AWS",
+            "Kubernetes"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0135",
+        "evaluation_date": "2024-04-08",
+        "candidate_id": "Alex D.",
+        "target_role": "Data Analyst",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "SQL",
+            "Kubernetes",
+            "Power BI",
+            "Airflow",
+            "Spark",
+            "Python"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Python",
+            "SQL",
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Kubernetes",
+            "Airflow",
+            "Spark"
+        ],
+        "metrics": {
+            "match_score": 60,
+            "skill_coverage_pct": 50.0,
+            "gap_count": 3
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0136",
+        "evaluation_date": "2024-04-18",
+        "candidate_id": "Candidate C",
+        "target_role": "ML Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "Azure",
+            "NoSQL",
+            "AWS",
+            "Spark",
+            "Python",
+            "Pandas"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Azure",
+            "NoSQL",
+            "AWS",
+            "Spark",
+            "Python",
+            "Pandas"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0137",
+        "evaluation_date": "2024-04-29",
+        "candidate_id": "Candidate C",
+        "target_role": "Data Analyst",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Kubernetes",
+            "Spark",
+            "Terraform",
+            "Pandas"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Kubernetes",
+            "Spark",
+            "Terraform",
+            "Pandas"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0138",
+        "evaluation_date": "2024-04-21",
+        "candidate_id": "Candidate E",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Python",
+            "Azure",
+            "Airflow",
+            "Snowflake",
+            "NoSQL",
+            "Terraform"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Python",
+            "Azure",
+            "Airflow",
+            "Snowflake",
+            "NoSQL",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0139",
+        "evaluation_date": "2024-04-18",
+        "candidate_id": "Alex D.",
+        "target_role": "Data Analyst",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Pandas",
+            "Airflow",
+            "Spark",
+            "Power BI",
+            "Kubernetes"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Pandas",
+            "Airflow",
+            "Spark",
+            "Kubernetes"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 20.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0140",
+        "evaluation_date": "2024-04-06",
+        "candidate_id": "Candidate E",
+        "target_role": "Data Engineer",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Kubernetes",
+            "Azure",
+            "Spark",
+            "Databricks",
+            "AWS",
+            "Python",
+            "Docker"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Kubernetes",
+            "Azure",
+            "Spark",
+            "Databricks",
+            "AWS",
+            "Python",
+            "Docker"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0141",
+        "evaluation_date": "2024-04-09",
+        "candidate_id": "Alex D.",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Power BI",
+            "Pandas",
+            "Azure",
+            "Airflow",
+            "SQL"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "SQL",
+            "Azure",
+            "Power BI",
+            "Data Modeling"
+        ],
+        "matched_skills": [
+            "SQL",
+            "Azure",
+            "Power BI"
+        ],
+        "missing_skills": [
+            "Pandas",
+            "Airflow"
+        ],
+        "metrics": {
+            "match_score": 45,
+            "skill_coverage_pct": 60.0,
+            "gap_count": 2
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0142",
+        "evaluation_date": "2024-04-23",
+        "candidate_id": "Candidate B",
+        "target_role": "Analytics Engineer",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "SQL",
+            "Pandas",
+            "Kubernetes",
+            "Terraform",
+            "Azure",
+            "Spark"
+        ],
+        "candidate_current_skills": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "AWS"
+        ],
+        "matched_skills": [
+            "Pandas"
+        ],
+        "missing_skills": [
+            "SQL",
+            "Kubernetes",
+            "Terraform",
+            "Azure",
+            "Spark"
+        ],
+        "metrics": {
+            "match_score": 10,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0143",
+        "evaluation_date": "2024-04-17",
+        "candidate_id": "Candidate C",
+        "target_role": "Data Analyst",
+        "target_industry": "Tech",
+        "market_demand_skills": [
+            "SQL",
+            "Power BI",
+            "AWS",
+            "Azure",
+            "Pandas",
+            "NoSQL",
+            "Terraform"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "Power BI",
+            "AWS",
+            "Azure",
+            "Pandas",
+            "NoSQL",
+            "Terraform"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 14.29,
+            "gap_count": 6
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0144",
+        "evaluation_date": "2024-04-09",
+        "candidate_id": "Candidate E",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Docker",
+            "Snowflake",
+            "Airflow",
+            "NoSQL",
+            "SQL"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Docker",
+            "Snowflake",
+            "Airflow",
+            "NoSQL",
+            "SQL"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0145",
+        "evaluation_date": "2024-04-02",
+        "candidate_id": "Candidate E",
+        "target_role": "BI Solutions Architect",
+        "target_industry": "Healthcare",
+        "market_demand_skills": [
+            "Snowflake",
+            "Python",
+            "Pandas",
+            "Azure",
+            "NoSQL"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Snowflake",
+            "Python",
+            "Pandas",
+            "Azure",
+            "NoSQL"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0146",
+        "evaluation_date": "2024-04-29",
+        "candidate_id": "Candidate C",
+        "target_role": "Data Engineer",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Kubernetes",
+            "Snowflake",
+            "SQL",
+            "Airflow",
+            "AWS",
+            "Spark"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "Kubernetes",
+            "Snowflake",
+            "Airflow",
+            "AWS",
+            "Spark"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 16.67,
+            "gap_count": 5
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0147",
+        "evaluation_date": "2024-04-29",
+        "candidate_id": "Candidate C",
+        "target_role": "Data Engineer",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "AWS",
+            "Kubernetes",
+            "Spark",
+            "SQL",
+            "Airflow",
+            "Snowflake",
+            "Azure",
+            "Docker"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [
+            "SQL"
+        ],
+        "missing_skills": [
+            "AWS",
+            "Kubernetes",
+            "Spark",
+            "Airflow",
+            "Snowflake",
+            "Azure",
+            "Docker"
+        ],
+        "metrics": {
+            "match_score": 25,
+            "skill_coverage_pct": 12.5,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Stable"
+    },
+    {
+        "match_id": "MATCH-2024-0148",
+        "evaluation_date": "2024-04-13",
+        "candidate_id": "Candidate C",
+        "target_role": "ML Engineer",
+        "target_industry": "E-commerce",
+        "market_demand_skills": [
+            "Terraform",
+            "NoSQL",
+            "Airflow",
+            "Databricks"
+        ],
+        "candidate_current_skills": [
+            "SQL",
+            "Tableau",
+            "Excel",
+            "ETL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Terraform",
+            "NoSQL",
+            "Airflow",
+            "Databricks"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Declining"
+    },
+    {
+        "match_id": "MATCH-2024-0149",
+        "evaluation_date": "2024-04-06",
+        "candidate_id": "Candidate E",
+        "target_role": "Data Analyst",
+        "target_industry": "Energy",
+        "market_demand_skills": [
+            "AWS",
+            "Docker",
+            "Snowflake",
+            "Databricks",
+            "Airflow",
+            "NoSQL",
+            "Azure"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "AWS",
+            "Docker",
+            "Snowflake",
+            "Databricks",
+            "Airflow",
+            "NoSQL",
+            "Azure"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 7
+        },
+        "market_growth_signal": "Rising"
+    },
+    {
+        "match_id": "MATCH-2024-0150",
+        "evaluation_date": "2024-04-12",
+        "candidate_id": "Candidate E",
+        "target_role": "Data Analyst",
+        "target_industry": "Finance",
+        "market_demand_skills": [
+            "Terraform",
+            "Azure",
+            "SQL",
+            "Snowflake"
+        ],
+        "candidate_current_skills": [
+            "T-SQL",
+            "SSIS",
+            "Power BI",
+            "Azure SQL"
+        ],
+        "matched_skills": [],
+        "missing_skills": [
+            "Terraform",
+            "Azure",
+            "SQL",
+            "Snowflake"
+        ],
+        "metrics": {
+            "match_score": 0,
+            "skill_coverage_pct": 0.0,
+            "gap_count": 4
+        },
+        "market_growth_signal": "Stable"
+    }
+]
