@@ -1,0 +1,2937 @@
+[
+    {
+        "job_id": "JOB-2024-0001",
+        "date_posted": "2024-02-14",
+        "job_title": "Analytics Engineer",
+        "industry": "Energy",
+        "country": "Germany",
+        "work_mode": "Remote",
+        "salary_usd": 48003,
+        "currency": "USD",
+        "skills": [
+            "Power BI",
+            "Snowflake",
+            "T-SQL"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 4.0
+    },
+    {
+        "job_id": "JOB-2024-0002",
+        "date_posted": "2024-02-15",
+        "job_title": "Data Engineer",
+        "industry": "Finance",
+        "country": "Canada",
+        "work_mode": "Remote",
+        "salary_usd": 60972,
+        "currency": "USD",
+        "skills": [
+            "Snowflake",
+            "AWS",
+            "GCP",
+            "Machine Learning",
+            "Airflow"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 3.5
+    },
+    {
+        "job_id": "JOB-2024-0003",
+        "date_posted": "2024-04-12",
+        "job_title": "Data Analyst",
+        "industry": "Energy",
+        "country": "UK",
+        "work_mode": "Hybrid",
+        "salary_usd": 94767,
+        "currency": "USD",
+        "skills": [
+            "Power BI",
+            "Docker",
+            "T-SQL"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 4.3
+    },
+    {
+        "job_id": "JOB-2024-0004",
+        "date_posted": "2024-01-05",
+        "job_title": "Data Scientist",
+        "industry": "Finance",
+        "country": "UK",
+        "work_mode": "Hybrid",
+        "salary_usd": 119251,
+        "currency": "USD",
+        "skills": [
+            "Airflow",
+            "Tableau",
+            "Snowflake"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 3.5
+    },
+    {
+        "job_id": "JOB-2024-0005",
+        "date_posted": "2024-01-19",
+        "job_title": "Data Engineer",
+        "industry": "Healthcare",
+        "country": "USA",
+        "work_mode": "On-site",
+        "salary_usd": 75353,
+        "currency": "USD",
+        "skills": [
+            "Machine Learning",
+            "Snowflake",
+            "Pandas",
+            "T-SQL",
+            "Azure"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 4.2
+    },
+    {
+        "job_id": "JOB-2024-0006",
+        "date_posted": "2024-03-24",
+        "job_title": "BI Developer",
+        "industry": "Finance",
+        "country": "France",
+        "work_mode": "Remote",
+        "salary_usd": 68855,
+        "currency": "USD",
+        "skills": [
+            "Tableau",
+            "AWS",
+            "Power BI",
+            "Azure",
+            "SQL",
+            "Pandas"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 4.3
+    },
+    {
+        "job_id": "JOB-2024-0007",
+        "date_posted": "2024-04-02",
+        "job_title": "Analytics Engineer",
+        "industry": "Healthcare",
+        "country": "France",
+        "work_mode": "Remote",
+        "salary_usd": 46910,
+        "currency": "USD",
+        "skills": [
+            "Azure",
+            "Pandas",
+            "GCP",
+            "Spark",
+            "AWS",
+            "Power BI"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 3.8
+    },
+    {
+        "job_id": "JOB-2024-0008",
+        "date_posted": "2024-05-13",
+        "job_title": "Data Engineer",
+        "industry": "Finance",
+        "country": "Canada",
+        "work_mode": "Remote",
+        "salary_usd": 112066,
+        "currency": "USD",
+        "skills": [
+            "Snowflake",
+            "SQL",
+            "T-SQL",
+            "Python"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 4.7
+    },
+    {
+        "job_id": "JOB-2024-0009",
+        "date_posted": "2024-02-14",
+        "job_title": "Analytics Engineer",
+        "industry": "Tech",
+        "country": "Brazil",
+        "work_mode": "Remote",
+        "salary_usd": 69264,
+        "currency": "USD",
+        "skills": [
+            "Snowflake",
+            "Databricks",
+            "T-SQL",
+            "Machine Learning",
+            "Pandas"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 4.1
+    },
+    {
+        "job_id": "JOB-2024-0010",
+        "date_posted": "2024-05-16",
+        "job_title": "Data Scientist",
+        "industry": "Healthcare",
+        "country": "Mexico",
+        "work_mode": "Hybrid",
+        "salary_usd": 85075,
+        "currency": "USD",
+        "skills": [
+            "Power BI",
+            "Snowflake",
+            "Docker",
+            "Tableau",
+            "Pandas"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": true,
+        "company_rating": 4.6
+    },
+    {
+        "job_id": "JOB-2024-0011",
+        "date_posted": "2024-05-18",
+        "job_title": "BI Developer",
+        "industry": "Healthcare",
+        "country": "Canada",
+        "work_mode": "Remote",
+        "salary_usd": 76028,
+        "currency": "USD",
+        "skills": [
+            "Pandas",
+            "Machine Learning",
+            "SQL",
+            "Snowflake",
+            "GCP"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 3.7
+    },
+    {
+        "job_id": "JOB-2024-0012",
+        "date_posted": "2024-05-01",
+        "job_title": "Data Analyst",
+        "industry": "Healthcare",
+        "country": "UK",
+        "work_mode": "On-site",
+        "salary_usd": 99342,
+        "currency": "USD",
+        "skills": [
+            "Spark",
+            "SQL",
+            "Airflow",
+            "Power BI",
+            "Azure"
+        ],
+        "seniority": "Senior",
+        "is_remote": false,
+        "company_rating": 4.5
+    },
+    {
+        "job_id": "JOB-2024-0013",
+        "date_posted": "2024-03-03",
+        "job_title": "Analytics Engineer",
+        "industry": "Energy",
+        "country": "Germany",
+        "work_mode": "Remote",
+        "salary_usd": 67764,
+        "currency": "USD",
+        "skills": [
+            "T-SQL",
+            "Databricks",
+            "Power BI",
+            "Docker",
+            "Pandas"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 3.1
+    },
+    {
+        "job_id": "JOB-2024-0014",
+        "date_posted": "2024-01-01",
+        "job_title": "Data Engineer",
+        "industry": "Energy",
+        "country": "USA",
+        "work_mode": "On-site",
+        "salary_usd": 44959,
+        "currency": "USD",
+        "skills": [
+            "Airflow",
+            "Tableau",
+            "GCP",
+            "T-SQL",
+            "Power BI"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 4.4
+    },
+    {
+        "job_id": "JOB-2024-0015",
+        "date_posted": "2024-03-29",
+        "job_title": "Analytics Engineer",
+        "industry": "E-commerce",
+        "country": "UK",
+        "work_mode": "Remote",
+        "salary_usd": 50963,
+        "currency": "USD",
+        "skills": [
+            "Machine Learning",
+            "SQL",
+            "Azure",
+            "Python",
+            "AWS",
+            "Power BI"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 3.4
+    },
+    {
+        "job_id": "JOB-2024-0016",
+        "date_posted": "2024-05-26",
+        "job_title": "Data Scientist",
+        "industry": "Energy",
+        "country": "Spain",
+        "work_mode": "Remote",
+        "salary_usd": 114990,
+        "currency": "USD",
+        "skills": [
+            "Airflow",
+            "Spark",
+            "Azure",
+            "Tableau",
+            "GCP",
+            "Python"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 4.2
+    },
+    {
+        "job_id": "JOB-2024-0017",
+        "date_posted": "2024-04-27",
+        "job_title": "Data Scientist",
+        "industry": "Energy",
+        "country": "USA",
+        "work_mode": "Hybrid",
+        "salary_usd": 122485,
+        "currency": "USD",
+        "skills": [
+            "Docker",
+            "Power BI",
+            "Python"
+        ],
+        "seniority": "Senior",
+        "is_remote": false,
+        "company_rating": 3.0
+    },
+    {
+        "job_id": "JOB-2024-0018",
+        "date_posted": "2024-02-09",
+        "job_title": "Data Scientist",
+        "industry": "Tech",
+        "country": "Brazil",
+        "work_mode": "Hybrid",
+        "salary_usd": 44735,
+        "currency": "USD",
+        "skills": [
+            "Docker",
+            "Databricks",
+            "Python",
+            "Machine Learning",
+            "Snowflake",
+            "Spark"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 4.1
+    },
+    {
+        "job_id": "JOB-2024-0019",
+        "date_posted": "2024-04-21",
+        "job_title": "Data Scientist",
+        "industry": "Automotive",
+        "country": "Spain",
+        "work_mode": "Hybrid",
+        "salary_usd": 122277,
+        "currency": "USD",
+        "skills": [
+            "Pandas",
+            "Tableau",
+            "AWS",
+            "Python",
+            "Power BI",
+            "SQL"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": true,
+        "company_rating": 4.1
+    },
+    {
+        "job_id": "JOB-2024-0020",
+        "date_posted": "2024-01-04",
+        "job_title": "Data Engineer",
+        "industry": "Finance",
+        "country": "Mexico",
+        "work_mode": "Hybrid",
+        "salary_usd": 91308,
+        "currency": "USD",
+        "skills": [
+            "SQL",
+            "Pandas",
+            "GCP",
+            "Power BI",
+            "T-SQL",
+            "Python"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 4.3
+    },
+    {
+        "job_id": "JOB-2024-0021",
+        "date_posted": "2024-03-31",
+        "job_title": "Analytics Engineer",
+        "industry": "E-commerce",
+        "country": "Brazil",
+        "work_mode": "Remote",
+        "salary_usd": 124264,
+        "currency": "USD",
+        "skills": [
+            "AWS",
+            "Tableau",
+            "Python",
+            "Power BI"
+        ],
+        "seniority": "Senior",
+        "is_remote": false,
+        "company_rating": 5.0
+    },
+    {
+        "job_id": "JOB-2024-0022",
+        "date_posted": "2024-04-29",
+        "job_title": "Analytics Engineer",
+        "industry": "Tech",
+        "country": "Canada",
+        "work_mode": "Hybrid",
+        "salary_usd": 63318,
+        "currency": "USD",
+        "skills": [
+            "Spark",
+            "T-SQL",
+            "Airflow",
+            "Pandas",
+            "GCP",
+            "Tableau"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 4.9
+    },
+    {
+        "job_id": "JOB-2024-0023",
+        "date_posted": "2024-03-04",
+        "job_title": "Data Engineer",
+        "industry": "Healthcare",
+        "country": "USA",
+        "work_mode": "On-site",
+        "salary_usd": 67503,
+        "currency": "USD",
+        "skills": [
+            "Spark",
+            "Tableau",
+            "Power BI",
+            "Python"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 3.9
+    },
+    {
+        "job_id": "JOB-2024-0024",
+        "date_posted": "2024-03-22",
+        "job_title": "Data Analyst",
+        "industry": "Healthcare",
+        "country": "UK",
+        "work_mode": "Remote",
+        "salary_usd": 42264,
+        "currency": "USD",
+        "skills": [
+            "Python",
+            "GCP",
+            "Pandas"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 3.5
+    },
+    {
+        "job_id": "JOB-2024-0025",
+        "date_posted": "2024-04-24",
+        "job_title": "Data Scientist",
+        "industry": "E-commerce",
+        "country": "Mexico",
+        "work_mode": "Remote",
+        "salary_usd": 110491,
+        "currency": "USD",
+        "skills": [
+            "Spark",
+            "Power BI",
+            "Databricks",
+            "Docker"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 3.2
+    },
+    {
+        "job_id": "JOB-2024-0026",
+        "date_posted": "2024-01-21",
+        "job_title": "Data Engineer",
+        "industry": "Finance",
+        "country": "Germany",
+        "work_mode": "Remote",
+        "salary_usd": 56209,
+        "currency": "USD",
+        "skills": [
+            "AWS",
+            "Databricks",
+            "Tableau",
+            "Docker",
+            "Azure"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 3.3
+    },
+    {
+        "job_id": "JOB-2024-0027",
+        "date_posted": "2024-04-10",
+        "job_title": "Data Engineer",
+        "industry": "Automotive",
+        "country": "UK",
+        "work_mode": "Hybrid",
+        "salary_usd": 94651,
+        "currency": "USD",
+        "skills": [
+            "Docker",
+            "Python",
+            "Airflow",
+            "Machine Learning",
+            "AWS"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 3.1
+    },
+    {
+        "job_id": "JOB-2024-0028",
+        "date_posted": "2024-03-24",
+        "job_title": "BI Developer",
+        "industry": "Healthcare",
+        "country": "USA",
+        "work_mode": "Remote",
+        "salary_usd": 46534,
+        "currency": "USD",
+        "skills": [
+            "T-SQL",
+            "Databricks",
+            "Spark",
+            "Pandas",
+            "SQL"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 4.7
+    },
+    {
+        "job_id": "JOB-2024-0029",
+        "date_posted": "2024-01-18",
+        "job_title": "BI Developer",
+        "industry": "E-commerce",
+        "country": "Spain",
+        "work_mode": "Remote",
+        "salary_usd": 76996,
+        "currency": "USD",
+        "skills": [
+            "GCP",
+            "SQL",
+            "Snowflake",
+            "Python"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 4.4
+    },
+    {
+        "job_id": "JOB-2024-0030",
+        "date_posted": "2024-02-29",
+        "job_title": "Data Scientist",
+        "industry": "Automotive",
+        "country": "UK",
+        "work_mode": "Hybrid",
+        "salary_usd": 114538,
+        "currency": "USD",
+        "skills": [
+            "Docker",
+            "Snowflake",
+            "Machine Learning",
+            "SQL"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 3.1
+    },
+    {
+        "job_id": "JOB-2024-0031",
+        "date_posted": "2024-02-03",
+        "job_title": "Data Engineer",
+        "industry": "E-commerce",
+        "country": "USA",
+        "work_mode": "On-site",
+        "salary_usd": 90545,
+        "currency": "USD",
+        "skills": [
+            "Spark",
+            "Python",
+            "Databricks",
+            "Airflow",
+            "Snowflake"
+        ],
+        "seniority": "Senior",
+        "is_remote": false,
+        "company_rating": 4.6
+    },
+    {
+        "job_id": "JOB-2024-0032",
+        "date_posted": "2024-01-14",
+        "job_title": "BI Developer",
+        "industry": "E-commerce",
+        "country": "Mexico",
+        "work_mode": "Remote",
+        "salary_usd": 98307,
+        "currency": "USD",
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Databricks"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 3.1
+    },
+    {
+        "job_id": "JOB-2024-0033",
+        "date_posted": "2024-01-02",
+        "job_title": "Data Analyst",
+        "industry": "Energy",
+        "country": "Germany",
+        "work_mode": "On-site",
+        "salary_usd": 53181,
+        "currency": "USD",
+        "skills": [
+            "AWS",
+            "Snowflake",
+            "T-SQL",
+            "Python",
+            "Docker"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 3.1
+    },
+    {
+        "job_id": "JOB-2024-0034",
+        "date_posted": "2024-03-22",
+        "job_title": "Data Analyst",
+        "industry": "E-commerce",
+        "country": "Mexico",
+        "work_mode": "On-site",
+        "salary_usd": 111218,
+        "currency": "USD",
+        "skills": [
+            "Airflow",
+            "Spark",
+            "Tableau"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 3.8
+    },
+    {
+        "job_id": "JOB-2024-0035",
+        "date_posted": "2024-01-22",
+        "job_title": "Analytics Engineer",
+        "industry": "E-commerce",
+        "country": "USA",
+        "work_mode": "On-site",
+        "salary_usd": 115673,
+        "currency": "USD",
+        "skills": [
+            "T-SQL",
+            "Databricks",
+            "Docker"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 3.5
+    },
+    {
+        "job_id": "JOB-2024-0036",
+        "date_posted": "2024-01-17",
+        "job_title": "Data Analyst",
+        "industry": "E-commerce",
+        "country": "Spain",
+        "work_mode": "On-site",
+        "salary_usd": 114819,
+        "currency": "USD",
+        "skills": [
+            "Databricks",
+            "Snowflake",
+            "Airflow",
+            "Spark",
+            "Pandas"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 4.4
+    },
+    {
+        "job_id": "JOB-2024-0037",
+        "date_posted": "2024-05-29",
+        "job_title": "Data Analyst",
+        "industry": "E-commerce",
+        "country": "Canada",
+        "work_mode": "Remote",
+        "salary_usd": 123011,
+        "currency": "USD",
+        "skills": [
+            "T-SQL",
+            "Azure",
+            "Databricks"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 3.2
+    },
+    {
+        "job_id": "JOB-2024-0038",
+        "date_posted": "2024-02-04",
+        "job_title": "Data Scientist",
+        "industry": "Finance",
+        "country": "UK",
+        "work_mode": "On-site",
+        "salary_usd": 46781,
+        "currency": "USD",
+        "skills": [
+            "Tableau",
+            "SQL",
+            "T-SQL",
+            "AWS"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 3.9
+    },
+    {
+        "job_id": "JOB-2024-0039",
+        "date_posted": "2024-04-10",
+        "job_title": "Data Analyst",
+        "industry": "Tech",
+        "country": "France",
+        "work_mode": "On-site",
+        "salary_usd": 102644,
+        "currency": "USD",
+        "skills": [
+            "Docker",
+            "Tableau",
+            "Airflow",
+            "Azure",
+            "Power BI",
+            "AWS"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 3.7
+    },
+    {
+        "job_id": "JOB-2024-0040",
+        "date_posted": "2024-01-22",
+        "job_title": "Analytics Engineer",
+        "industry": "E-commerce",
+        "country": "Spain",
+        "work_mode": "Remote",
+        "salary_usd": 119023,
+        "currency": "USD",
+        "skills": [
+            "Spark",
+            "Docker",
+            "AWS",
+            "Pandas",
+            "Airflow",
+            "Power BI"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 4.8
+    },
+    {
+        "job_id": "JOB-2024-0041",
+        "date_posted": "2024-04-12",
+        "job_title": "Analytics Engineer",
+        "industry": "Healthcare",
+        "country": "Canada",
+        "work_mode": "On-site",
+        "salary_usd": 91163,
+        "currency": "USD",
+        "skills": [
+            "Azure",
+            "Spark",
+            "Snowflake",
+            "Power BI",
+            "Docker",
+            "Machine Learning"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 4.9
+    },
+    {
+        "job_id": "JOB-2024-0042",
+        "date_posted": "2024-05-01",
+        "job_title": "Data Analyst",
+        "industry": "E-commerce",
+        "country": "USA",
+        "work_mode": "Remote",
+        "salary_usd": 85907,
+        "currency": "USD",
+        "skills": [
+            "Docker",
+            "AWS",
+            "Databricks"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 3.1
+    },
+    {
+        "job_id": "JOB-2024-0043",
+        "date_posted": "2024-04-12",
+        "job_title": "Data Analyst",
+        "industry": "Tech",
+        "country": "Spain",
+        "work_mode": "On-site",
+        "salary_usd": 101410,
+        "currency": "USD",
+        "skills": [
+            "Databricks",
+            "Power BI",
+            "Tableau",
+            "Python",
+            "Airflow",
+            "Azure"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 4.6
+    },
+    {
+        "job_id": "JOB-2024-0044",
+        "date_posted": "2024-01-18",
+        "job_title": "Analytics Engineer",
+        "industry": "Tech",
+        "country": "Canada",
+        "work_mode": "On-site",
+        "salary_usd": 41834,
+        "currency": "USD",
+        "skills": [
+            "Azure",
+            "Airflow",
+            "T-SQL",
+            "Spark"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 4.3
+    },
+    {
+        "job_id": "JOB-2024-0045",
+        "date_posted": "2024-04-09",
+        "job_title": "Analytics Engineer",
+        "industry": "Finance",
+        "country": "USA",
+        "work_mode": "On-site",
+        "salary_usd": 45802,
+        "currency": "USD",
+        "skills": [
+            "Airflow",
+            "AWS",
+            "Spark",
+            "Machine Learning",
+            "Power BI",
+            "Databricks"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 4.2
+    },
+    {
+        "job_id": "JOB-2024-0046",
+        "date_posted": "2024-01-07",
+        "job_title": "Data Scientist",
+        "industry": "Healthcare",
+        "country": "France",
+        "work_mode": "On-site",
+        "salary_usd": 105157,
+        "currency": "USD",
+        "skills": [
+            "Machine Learning",
+            "Python",
+            "Databricks"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 3.5
+    },
+    {
+        "job_id": "JOB-2024-0047",
+        "date_posted": "2024-03-04",
+        "job_title": "BI Developer",
+        "industry": "Finance",
+        "country": "Canada",
+        "work_mode": "Hybrid",
+        "salary_usd": 104887,
+        "currency": "USD",
+        "skills": [
+            "Docker",
+            "Python",
+            "Snowflake",
+            "AWS",
+            "Spark"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 4.1
+    },
+    {
+        "job_id": "JOB-2024-0048",
+        "date_posted": "2024-02-24",
+        "job_title": "Data Scientist",
+        "industry": "Healthcare",
+        "country": "USA",
+        "work_mode": "Hybrid",
+        "salary_usd": 46236,
+        "currency": "USD",
+        "skills": [
+            "T-SQL",
+            "Spark",
+            "SQL",
+            "Azure",
+            "Machine Learning"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 3.0
+    },
+    {
+        "job_id": "JOB-2024-0049",
+        "date_posted": "2024-05-21",
+        "job_title": "Analytics Engineer",
+        "industry": "Healthcare",
+        "country": "France",
+        "work_mode": "Hybrid",
+        "salary_usd": 46147,
+        "currency": "USD",
+        "skills": [
+            "T-SQL",
+            "Databricks",
+            "Azure"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 3.2
+    },
+    {
+        "job_id": "JOB-2024-0050",
+        "date_posted": "2024-01-19",
+        "job_title": "Data Scientist",
+        "industry": "Healthcare",
+        "country": "Spain",
+        "work_mode": "Hybrid",
+        "salary_usd": 120097,
+        "currency": "USD",
+        "skills": [
+            "Power BI",
+            "AWS",
+            "Docker",
+            "SQL"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 4.7
+    },
+    {
+        "job_id": "JOB-2024-0051",
+        "date_posted": "2024-05-27",
+        "job_title": "Data Scientist",
+        "industry": "Healthcare",
+        "country": "UK",
+        "work_mode": "Hybrid",
+        "salary_usd": 59279,
+        "currency": "USD",
+        "skills": [
+            "Azure",
+            "Airflow",
+            "Power BI"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 4.2
+    },
+    {
+        "job_id": "JOB-2024-0052",
+        "date_posted": "2024-03-20",
+        "job_title": "BI Developer",
+        "industry": "E-commerce",
+        "country": "Canada",
+        "work_mode": "On-site",
+        "salary_usd": 41542,
+        "currency": "USD",
+        "skills": [
+            "T-SQL",
+            "GCP",
+            "Snowflake",
+            "AWS"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 3.8
+    },
+    {
+        "job_id": "JOB-2024-0053",
+        "date_posted": "2024-05-16",
+        "job_title": "Analytics Engineer",
+        "industry": "Automotive",
+        "country": "UK",
+        "work_mode": "Hybrid",
+        "salary_usd": 61222,
+        "currency": "USD",
+        "skills": [
+            "Python",
+            "Tableau",
+            "AWS",
+            "Airflow",
+            "Pandas"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 4.0
+    },
+    {
+        "job_id": "JOB-2024-0054",
+        "date_posted": "2024-04-17",
+        "job_title": "Data Scientist",
+        "industry": "E-commerce",
+        "country": "USA",
+        "work_mode": "On-site",
+        "salary_usd": 75630,
+        "currency": "USD",
+        "skills": [
+            "Spark",
+            "GCP",
+            "Snowflake"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 4.5
+    },
+    {
+        "job_id": "JOB-2024-0055",
+        "date_posted": "2024-02-20",
+        "job_title": "Analytics Engineer",
+        "industry": "Automotive",
+        "country": "UK",
+        "work_mode": "Hybrid",
+        "salary_usd": 40960,
+        "currency": "USD",
+        "skills": [
+            "SQL",
+            "Tableau",
+            "Databricks",
+            "Docker",
+            "Airflow"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 4.4
+    },
+    {
+        "job_id": "JOB-2024-0056",
+        "date_posted": "2024-01-01",
+        "job_title": "Data Analyst",
+        "industry": "Automotive",
+        "country": "Spain",
+        "work_mode": "Remote",
+        "salary_usd": 128544,
+        "currency": "USD",
+        "skills": [
+            "Docker",
+            "T-SQL",
+            "Azure",
+            "SQL"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 4.0
+    },
+    {
+        "job_id": "JOB-2024-0057",
+        "date_posted": "2024-05-22",
+        "job_title": "Data Engineer",
+        "industry": "E-commerce",
+        "country": "Brazil",
+        "work_mode": "On-site",
+        "salary_usd": 52884,
+        "currency": "USD",
+        "skills": [
+            "AWS",
+            "Pandas",
+            "Snowflake",
+            "T-SQL",
+            "Databricks"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 4.0
+    },
+    {
+        "job_id": "JOB-2024-0058",
+        "date_posted": "2024-05-18",
+        "job_title": "Data Scientist",
+        "industry": "Finance",
+        "country": "Brazil",
+        "work_mode": "Remote",
+        "salary_usd": 39518,
+        "currency": "USD",
+        "skills": [
+            "SQL",
+            "AWS",
+            "Pandas"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 4.0
+    },
+    {
+        "job_id": "JOB-2024-0059",
+        "date_posted": "2024-03-28",
+        "job_title": "Analytics Engineer",
+        "industry": "Energy",
+        "country": "Canada",
+        "work_mode": "On-site",
+        "salary_usd": 129511,
+        "currency": "USD",
+        "skills": [
+            "Machine Learning",
+            "GCP",
+            "T-SQL",
+            "Pandas",
+            "SQL",
+            "Snowflake"
+        ],
+        "seniority": "Senior",
+        "is_remote": false,
+        "company_rating": 4.4
+    },
+    {
+        "job_id": "JOB-2024-0060",
+        "date_posted": "2024-05-18",
+        "job_title": "BI Developer",
+        "industry": "Automotive",
+        "country": "USA",
+        "work_mode": "Hybrid",
+        "salary_usd": 45841,
+        "currency": "USD",
+        "skills": [
+            "Azure",
+            "GCP",
+            "Tableau"
+        ],
+        "seniority": "Senior",
+        "is_remote": false,
+        "company_rating": 4.0
+    },
+    {
+        "job_id": "JOB-2024-0061",
+        "date_posted": "2024-04-21",
+        "job_title": "Data Scientist",
+        "industry": "E-commerce",
+        "country": "France",
+        "work_mode": "On-site",
+        "salary_usd": 69593,
+        "currency": "USD",
+        "skills": [
+            "GCP",
+            "Spark",
+            "Tableau",
+            "Machine Learning",
+            "Airflow"
+        ],
+        "seniority": "Senior",
+        "is_remote": false,
+        "company_rating": 4.0
+    },
+    {
+        "job_id": "JOB-2024-0062",
+        "date_posted": "2024-03-20",
+        "job_title": "Data Analyst",
+        "industry": "Automotive",
+        "country": "Mexico",
+        "work_mode": "Remote",
+        "salary_usd": 84602,
+        "currency": "USD",
+        "skills": [
+            "Python",
+            "GCP",
+            "Azure",
+            "Power BI",
+            "T-SQL",
+            "Pandas"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 4.3
+    },
+    {
+        "job_id": "JOB-2024-0063",
+        "date_posted": "2024-03-31",
+        "job_title": "Data Engineer",
+        "industry": "Healthcare",
+        "country": "Brazil",
+        "work_mode": "Remote",
+        "salary_usd": 122344,
+        "currency": "USD",
+        "skills": [
+            "Tableau",
+            "AWS",
+            "Databricks"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": true,
+        "company_rating": 3.3
+    },
+    {
+        "job_id": "JOB-2024-0064",
+        "date_posted": "2024-03-08",
+        "job_title": "Data Analyst",
+        "industry": "E-commerce",
+        "country": "France",
+        "work_mode": "On-site",
+        "salary_usd": 60183,
+        "currency": "USD",
+        "skills": [
+            "Azure",
+            "Databricks",
+            "Pandas",
+            "Python",
+            "Snowflake",
+            "T-SQL"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": true,
+        "company_rating": 4.2
+    },
+    {
+        "job_id": "JOB-2024-0065",
+        "date_posted": "2024-01-18",
+        "job_title": "Data Scientist",
+        "industry": "Tech",
+        "country": "Mexico",
+        "work_mode": "Remote",
+        "salary_usd": 57006,
+        "currency": "USD",
+        "skills": [
+            "Snowflake",
+            "Tableau",
+            "Airflow"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 5.0
+    },
+    {
+        "job_id": "JOB-2024-0066",
+        "date_posted": "2024-03-23",
+        "job_title": "Data Scientist",
+        "industry": "E-commerce",
+        "country": "France",
+        "work_mode": "On-site",
+        "salary_usd": 109291,
+        "currency": "USD",
+        "skills": [
+            "GCP",
+            "Python",
+            "Docker"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 3.8
+    },
+    {
+        "job_id": "JOB-2024-0067",
+        "date_posted": "2024-05-22",
+        "job_title": "Data Analyst",
+        "industry": "E-commerce",
+        "country": "UK",
+        "work_mode": "Hybrid",
+        "salary_usd": 54069,
+        "currency": "USD",
+        "skills": [
+            "AWS",
+            "T-SQL",
+            "Tableau",
+            "Spark"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 4.4
+    },
+    {
+        "job_id": "JOB-2024-0068",
+        "date_posted": "2024-05-05",
+        "job_title": "Analytics Engineer",
+        "industry": "Energy",
+        "country": "France",
+        "work_mode": "Hybrid",
+        "salary_usd": 112943,
+        "currency": "USD",
+        "skills": [
+            "Databricks",
+            "Python",
+            "GCP",
+            "Pandas"
+        ],
+        "seniority": "Senior",
+        "is_remote": false,
+        "company_rating": 4.2
+    },
+    {
+        "job_id": "JOB-2024-0069",
+        "date_posted": "2024-02-25",
+        "job_title": "Data Engineer",
+        "industry": "E-commerce",
+        "country": "Germany",
+        "work_mode": "Remote",
+        "salary_usd": 107274,
+        "currency": "USD",
+        "skills": [
+            "Snowflake",
+            "Pandas",
+            "Databricks",
+            "T-SQL",
+            "GCP",
+            "Tableau"
+        ],
+        "seniority": "Senior",
+        "is_remote": false,
+        "company_rating": 3.1
+    },
+    {
+        "job_id": "JOB-2024-0070",
+        "date_posted": "2024-01-02",
+        "job_title": "Analytics Engineer",
+        "industry": "Finance",
+        "country": "Germany",
+        "work_mode": "Hybrid",
+        "salary_usd": 98557,
+        "currency": "USD",
+        "skills": [
+            "Airflow",
+            "Power BI",
+            "Spark",
+            "Python",
+            "Databricks"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 4.7
+    },
+    {
+        "job_id": "JOB-2024-0071",
+        "date_posted": "2024-04-06",
+        "job_title": "BI Developer",
+        "industry": "Automotive",
+        "country": "Canada",
+        "work_mode": "On-site",
+        "salary_usd": 81287,
+        "currency": "USD",
+        "skills": [
+            "Databricks",
+            "Tableau",
+            "T-SQL",
+            "Pandas"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 3.3
+    },
+    {
+        "job_id": "JOB-2024-0072",
+        "date_posted": "2024-03-20",
+        "job_title": "Data Analyst",
+        "industry": "Automotive",
+        "country": "Germany",
+        "work_mode": "On-site",
+        "salary_usd": 86761,
+        "currency": "USD",
+        "skills": [
+            "Azure",
+            "Airflow",
+            "Databricks"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": true,
+        "company_rating": 3.4
+    },
+    {
+        "job_id": "JOB-2024-0073",
+        "date_posted": "2024-04-18",
+        "job_title": "Data Scientist",
+        "industry": "Finance",
+        "country": "USA",
+        "work_mode": "Hybrid",
+        "salary_usd": 68003,
+        "currency": "USD",
+        "skills": [
+            "Python",
+            "GCP",
+            "T-SQL",
+            "AWS",
+            "SQL"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": true,
+        "company_rating": 4.3
+    },
+    {
+        "job_id": "JOB-2024-0074",
+        "date_posted": "2024-01-18",
+        "job_title": "Data Scientist",
+        "industry": "E-commerce",
+        "country": "USA",
+        "work_mode": "Hybrid",
+        "salary_usd": 51612,
+        "currency": "USD",
+        "skills": [
+            "Tableau",
+            "AWS",
+            "Snowflake",
+            "Airflow"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": true,
+        "company_rating": 3.7
+    },
+    {
+        "job_id": "JOB-2024-0075",
+        "date_posted": "2024-04-01",
+        "job_title": "Data Analyst",
+        "industry": "Energy",
+        "country": "Mexico",
+        "work_mode": "Hybrid",
+        "salary_usd": 82675,
+        "currency": "USD",
+        "skills": [
+            "Databricks",
+            "Docker",
+            "Pandas"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 3.8
+    },
+    {
+        "job_id": "JOB-2024-0076",
+        "date_posted": "2024-05-13",
+        "job_title": "Data Engineer",
+        "industry": "Energy",
+        "country": "France",
+        "work_mode": "Hybrid",
+        "salary_usd": 36769,
+        "currency": "USD",
+        "skills": [
+            "Power BI",
+            "Pandas",
+            "Docker",
+            "Machine Learning",
+            "Databricks",
+            "Tableau"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 3.5
+    },
+    {
+        "job_id": "JOB-2024-0077",
+        "date_posted": "2024-04-06",
+        "job_title": "Data Analyst",
+        "industry": "Finance",
+        "country": "UK",
+        "work_mode": "Hybrid",
+        "salary_usd": 85370,
+        "currency": "USD",
+        "skills": [
+            "Snowflake",
+            "GCP",
+            "AWS",
+            "Spark",
+            "Databricks"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 4.9
+    },
+    {
+        "job_id": "JOB-2024-0078",
+        "date_posted": "2024-03-10",
+        "job_title": "Data Scientist",
+        "industry": "Tech",
+        "country": "Germany",
+        "work_mode": "On-site",
+        "salary_usd": 114288,
+        "currency": "USD",
+        "skills": [
+            "Machine Learning",
+            "Tableau",
+            "GCP",
+            "SQL",
+            "Databricks",
+            "Azure"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 3.5
+    },
+    {
+        "job_id": "JOB-2024-0079",
+        "date_posted": "2024-01-20",
+        "job_title": "BI Developer",
+        "industry": "Finance",
+        "country": "Mexico",
+        "work_mode": "Hybrid",
+        "salary_usd": 66477,
+        "currency": "USD",
+        "skills": [
+            "AWS",
+            "Tableau",
+            "Machine Learning"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 3.3
+    },
+    {
+        "job_id": "JOB-2024-0080",
+        "date_posted": "2024-01-08",
+        "job_title": "BI Developer",
+        "industry": "Healthcare",
+        "country": "Spain",
+        "work_mode": "On-site",
+        "salary_usd": 108245,
+        "currency": "USD",
+        "skills": [
+            "Machine Learning",
+            "Spark",
+            "Snowflake",
+            "Azure",
+            "T-SQL",
+            "Python"
+        ],
+        "seniority": "Senior",
+        "is_remote": false,
+        "company_rating": 3.5
+    },
+    {
+        "job_id": "JOB-2024-0081",
+        "date_posted": "2024-05-08",
+        "job_title": "Data Analyst",
+        "industry": "Finance",
+        "country": "France",
+        "work_mode": "Remote",
+        "salary_usd": 71062,
+        "currency": "USD",
+        "skills": [
+            "Power BI",
+            "Tableau",
+            "Azure",
+            "Airflow"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 3.7
+    },
+    {
+        "job_id": "JOB-2024-0082",
+        "date_posted": "2024-03-09",
+        "job_title": "Analytics Engineer",
+        "industry": "Tech",
+        "country": "Canada",
+        "work_mode": "Hybrid",
+        "salary_usd": 80575,
+        "currency": "USD",
+        "skills": [
+            "Snowflake",
+            "Power BI",
+            "Pandas",
+            "T-SQL",
+            "Python",
+            "Azure"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 4.4
+    },
+    {
+        "job_id": "JOB-2024-0083",
+        "date_posted": "2024-01-02",
+        "job_title": "Data Scientist",
+        "industry": "Energy",
+        "country": "USA",
+        "work_mode": "On-site",
+        "salary_usd": 69160,
+        "currency": "USD",
+        "skills": [
+            "Pandas",
+            "Azure",
+            "SQL"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 3.2
+    },
+    {
+        "job_id": "JOB-2024-0084",
+        "date_posted": "2024-03-11",
+        "job_title": "Data Analyst",
+        "industry": "Tech",
+        "country": "Mexico",
+        "work_mode": "Hybrid",
+        "salary_usd": 105207,
+        "currency": "USD",
+        "skills": [
+            "Pandas",
+            "Python",
+            "T-SQL",
+            "Spark",
+            "Machine Learning"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 4.2
+    },
+    {
+        "job_id": "JOB-2024-0085",
+        "date_posted": "2024-01-20",
+        "job_title": "Data Scientist",
+        "industry": "Energy",
+        "country": "Spain",
+        "work_mode": "Hybrid",
+        "salary_usd": 79677,
+        "currency": "USD",
+        "skills": [
+            "GCP",
+            "Airflow",
+            "SQL",
+            "Azure",
+            "T-SQL",
+            "Pandas"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 4.5
+    },
+    {
+        "job_id": "JOB-2024-0086",
+        "date_posted": "2024-05-29",
+        "job_title": "Data Analyst",
+        "industry": "Automotive",
+        "country": "Mexico",
+        "work_mode": "Remote",
+        "salary_usd": 118488,
+        "currency": "USD",
+        "skills": [
+            "Pandas",
+            "GCP",
+            "AWS",
+            "T-SQL"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 3.8
+    },
+    {
+        "job_id": "JOB-2024-0087",
+        "date_posted": "2024-01-25",
+        "job_title": "BI Developer",
+        "industry": "Automotive",
+        "country": "USA",
+        "work_mode": "Hybrid",
+        "salary_usd": 54922,
+        "currency": "USD",
+        "skills": [
+            "T-SQL",
+            "AWS",
+            "Pandas",
+            "GCP",
+            "Machine Learning"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 3.7
+    },
+    {
+        "job_id": "JOB-2024-0088",
+        "date_posted": "2024-03-07",
+        "job_title": "Data Engineer",
+        "industry": "Healthcare",
+        "country": "Germany",
+        "work_mode": "Remote",
+        "salary_usd": 104235,
+        "currency": "USD",
+        "skills": [
+            "Pandas",
+            "Docker",
+            "SQL",
+            "Snowflake",
+            "Python"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 4.8
+    },
+    {
+        "job_id": "JOB-2024-0089",
+        "date_posted": "2024-05-27",
+        "job_title": "BI Developer",
+        "industry": "Healthcare",
+        "country": "UK",
+        "work_mode": "On-site",
+        "salary_usd": 44825,
+        "currency": "USD",
+        "skills": [
+            "Tableau",
+            "Spark",
+            "Python",
+            "Power BI",
+            "Databricks",
+            "AWS"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": true,
+        "company_rating": 3.7
+    },
+    {
+        "job_id": "JOB-2024-0090",
+        "date_posted": "2024-03-22",
+        "job_title": "Data Scientist",
+        "industry": "E-commerce",
+        "country": "Mexico",
+        "work_mode": "Remote",
+        "salary_usd": 63207,
+        "currency": "USD",
+        "skills": [
+            "Databricks",
+            "Pandas",
+            "Tableau",
+            "Spark"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 3.5
+    },
+    {
+        "job_id": "JOB-2024-0091",
+        "date_posted": "2024-02-01",
+        "job_title": "BI Developer",
+        "industry": "Finance",
+        "country": "Mexico",
+        "work_mode": "Remote",
+        "salary_usd": 84465,
+        "currency": "USD",
+        "skills": [
+            "Azure",
+            "Python",
+            "Docker",
+            "GCP",
+            "Tableau"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": true,
+        "company_rating": 3.6
+    },
+    {
+        "job_id": "JOB-2024-0092",
+        "date_posted": "2024-03-29",
+        "job_title": "Data Engineer",
+        "industry": "E-commerce",
+        "country": "USA",
+        "work_mode": "On-site",
+        "salary_usd": 94469,
+        "currency": "USD",
+        "skills": [
+            "Docker",
+            "Azure",
+            "Machine Learning",
+            "T-SQL"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": true,
+        "company_rating": 4.5
+    },
+    {
+        "job_id": "JOB-2024-0093",
+        "date_posted": "2024-03-06",
+        "job_title": "Data Scientist",
+        "industry": "Tech",
+        "country": "Canada",
+        "work_mode": "Remote",
+        "salary_usd": 125782,
+        "currency": "USD",
+        "skills": [
+            "Python",
+            "T-SQL",
+            "Airflow"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 3.1
+    },
+    {
+        "job_id": "JOB-2024-0094",
+        "date_posted": "2024-05-30",
+        "job_title": "Analytics Engineer",
+        "industry": "Energy",
+        "country": "Germany",
+        "work_mode": "Hybrid",
+        "salary_usd": 116796,
+        "currency": "USD",
+        "skills": [
+            "T-SQL",
+            "Tableau",
+            "GCP"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 4.0
+    },
+    {
+        "job_id": "JOB-2024-0095",
+        "date_posted": "2024-03-06",
+        "job_title": "Data Scientist",
+        "industry": "Automotive",
+        "country": "USA",
+        "work_mode": "On-site",
+        "salary_usd": 82708,
+        "currency": "USD",
+        "skills": [
+            "Databricks",
+            "AWS",
+            "Tableau",
+            "Power BI",
+            "T-SQL"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 4.1
+    },
+    {
+        "job_id": "JOB-2024-0096",
+        "date_posted": "2024-05-10",
+        "job_title": "BI Developer",
+        "industry": "Energy",
+        "country": "UK",
+        "work_mode": "Hybrid",
+        "salary_usd": 37370,
+        "currency": "USD",
+        "skills": [
+            "Databricks",
+            "Python",
+            "Power BI",
+            "Snowflake"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 3.3
+    },
+    {
+        "job_id": "JOB-2024-0097",
+        "date_posted": "2024-03-21",
+        "job_title": "Analytics Engineer",
+        "industry": "Finance",
+        "country": "France",
+        "work_mode": "Remote",
+        "salary_usd": 55201,
+        "currency": "USD",
+        "skills": [
+            "Airflow",
+            "AWS",
+            "Azure",
+            "T-SQL",
+            "Python",
+            "Machine Learning"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 3.7
+    },
+    {
+        "job_id": "JOB-2024-0098",
+        "date_posted": "2024-03-24",
+        "job_title": "Data Analyst",
+        "industry": "Finance",
+        "country": "UK",
+        "work_mode": "Remote",
+        "salary_usd": 79036,
+        "currency": "USD",
+        "skills": [
+            "Power BI",
+            "Pandas",
+            "SQL",
+            "Airflow"
+        ],
+        "seniority": "Senior",
+        "is_remote": false,
+        "company_rating": 3.8
+    },
+    {
+        "job_id": "JOB-2024-0099",
+        "date_posted": "2024-03-24",
+        "job_title": "Data Engineer",
+        "industry": "Energy",
+        "country": "Canada",
+        "work_mode": "On-site",
+        "salary_usd": 47809,
+        "currency": "USD",
+        "skills": [
+            "Pandas",
+            "T-SQL",
+            "AWS",
+            "Databricks",
+            "GCP",
+            "Tableau"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 4.3
+    },
+    {
+        "job_id": "JOB-2024-0100",
+        "date_posted": "2024-04-28",
+        "job_title": "Data Analyst",
+        "industry": "Tech",
+        "country": "Germany",
+        "work_mode": "Remote",
+        "salary_usd": 118395,
+        "currency": "USD",
+        "skills": [
+            "Tableau",
+            "Machine Learning",
+            "GCP"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 3.7
+    },
+    {
+        "job_id": "JOB-2024-0101",
+        "date_posted": "2024-05-23",
+        "job_title": "Analytics Engineer",
+        "industry": "Finance",
+        "country": "Mexico",
+        "work_mode": "Remote",
+        "salary_usd": 39123,
+        "currency": "USD",
+        "skills": [
+            "Spark",
+            "Pandas",
+            "Tableau",
+            "GCP",
+            "Machine Learning",
+            "Airflow"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 3.7
+    },
+    {
+        "job_id": "JOB-2024-0102",
+        "date_posted": "2024-03-25",
+        "job_title": "BI Developer",
+        "industry": "Energy",
+        "country": "UK",
+        "work_mode": "Remote",
+        "salary_usd": 92206,
+        "currency": "USD",
+        "skills": [
+            "Spark",
+            "Azure",
+            "Machine Learning",
+            "Python",
+            "AWS",
+            "Tableau"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 4.6
+    },
+    {
+        "job_id": "JOB-2024-0103",
+        "date_posted": "2024-04-10",
+        "job_title": "Analytics Engineer",
+        "industry": "Energy",
+        "country": "UK",
+        "work_mode": "Remote",
+        "salary_usd": 127105,
+        "currency": "USD",
+        "skills": [
+            "T-SQL",
+            "Spark",
+            "Power BI"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 3.8
+    },
+    {
+        "job_id": "JOB-2024-0104",
+        "date_posted": "2024-01-29",
+        "job_title": "BI Developer",
+        "industry": "Healthcare",
+        "country": "Mexico",
+        "work_mode": "On-site",
+        "salary_usd": 70355,
+        "currency": "USD",
+        "skills": [
+            "Databricks",
+            "Docker",
+            "Tableau",
+            "Azure",
+            "Spark",
+            "Power BI"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 4.1
+    },
+    {
+        "job_id": "JOB-2024-0105",
+        "date_posted": "2024-01-29",
+        "job_title": "BI Developer",
+        "industry": "Tech",
+        "country": "UK",
+        "work_mode": "Hybrid",
+        "salary_usd": 67827,
+        "currency": "USD",
+        "skills": [
+            "Databricks",
+            "Power BI",
+            "Azure"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 3.5
+    },
+    {
+        "job_id": "JOB-2024-0106",
+        "date_posted": "2024-04-10",
+        "job_title": "Analytics Engineer",
+        "industry": "Tech",
+        "country": "Mexico",
+        "work_mode": "On-site",
+        "salary_usd": 61288,
+        "currency": "USD",
+        "skills": [
+            "Snowflake",
+            "Tableau",
+            "AWS",
+            "SQL"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 4.1
+    },
+    {
+        "job_id": "JOB-2024-0107",
+        "date_posted": "2024-05-07",
+        "job_title": "Data Analyst",
+        "industry": "Finance",
+        "country": "Canada",
+        "work_mode": "Hybrid",
+        "salary_usd": 53850,
+        "currency": "USD",
+        "skills": [
+            "Spark",
+            "Power BI",
+            "Python",
+            "Databricks"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 4.8
+    },
+    {
+        "job_id": "JOB-2024-0108",
+        "date_posted": "2024-05-25",
+        "job_title": "BI Developer",
+        "industry": "Finance",
+        "country": "Brazil",
+        "work_mode": "Remote",
+        "salary_usd": 67382,
+        "currency": "USD",
+        "skills": [
+            "Docker",
+            "Tableau",
+            "Databricks",
+            "T-SQL"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 3.6
+    },
+    {
+        "job_id": "JOB-2024-0109",
+        "date_posted": "2024-01-09",
+        "job_title": "Data Scientist",
+        "industry": "E-commerce",
+        "country": "Spain",
+        "work_mode": "Remote",
+        "salary_usd": 60937,
+        "currency": "USD",
+        "skills": [
+            "Airflow",
+            "Azure",
+            "AWS",
+            "Pandas",
+            "Python",
+            "Power BI"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 4.5
+    },
+    {
+        "job_id": "JOB-2024-0110",
+        "date_posted": "2024-01-27",
+        "job_title": "BI Developer",
+        "industry": "Finance",
+        "country": "France",
+        "work_mode": "On-site",
+        "salary_usd": 84837,
+        "currency": "USD",
+        "skills": [
+            "Docker",
+            "Power BI",
+            "Airflow",
+            "Tableau"
+        ],
+        "seniority": "Senior",
+        "is_remote": false,
+        "company_rating": 3.6
+    },
+    {
+        "job_id": "JOB-2024-0111",
+        "date_posted": "2024-03-18",
+        "job_title": "Data Scientist",
+        "industry": "Finance",
+        "country": "USA",
+        "work_mode": "Remote",
+        "salary_usd": 72997,
+        "currency": "USD",
+        "skills": [
+            "Power BI",
+            "Tableau",
+            "Azure",
+            "T-SQL"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 3.7
+    },
+    {
+        "job_id": "JOB-2024-0112",
+        "date_posted": "2024-03-16",
+        "job_title": "Data Scientist",
+        "industry": "E-commerce",
+        "country": "Germany",
+        "work_mode": "Remote",
+        "salary_usd": 108928,
+        "currency": "USD",
+        "skills": [
+            "Spark",
+            "Azure",
+            "AWS",
+            "Airflow",
+            "T-SQL",
+            "Snowflake"
+        ],
+        "seniority": "Senior",
+        "is_remote": false,
+        "company_rating": 3.1
+    },
+    {
+        "job_id": "JOB-2024-0113",
+        "date_posted": "2024-05-16",
+        "job_title": "Data Scientist",
+        "industry": "Healthcare",
+        "country": "Brazil",
+        "work_mode": "On-site",
+        "salary_usd": 98246,
+        "currency": "USD",
+        "skills": [
+            "Airflow",
+            "Snowflake",
+            "Spark",
+            "Machine Learning"
+        ],
+        "seniority": "Senior",
+        "is_remote": false,
+        "company_rating": 3.1
+    },
+    {
+        "job_id": "JOB-2024-0114",
+        "date_posted": "2024-01-13",
+        "job_title": "Analytics Engineer",
+        "industry": "Tech",
+        "country": "Canada",
+        "work_mode": "On-site",
+        "salary_usd": 46056,
+        "currency": "USD",
+        "skills": [
+            "T-SQL",
+            "Power BI",
+            "Snowflake",
+            "Pandas",
+            "Databricks",
+            "Docker"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 3.9
+    },
+    {
+        "job_id": "JOB-2024-0115",
+        "date_posted": "2024-05-13",
+        "job_title": "Analytics Engineer",
+        "industry": "Healthcare",
+        "country": "Brazil",
+        "work_mode": "Hybrid",
+        "salary_usd": 98668,
+        "currency": "USD",
+        "skills": [
+            "Airflow",
+            "Azure",
+            "Python"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 3.3
+    },
+    {
+        "job_id": "JOB-2024-0116",
+        "date_posted": "2024-03-20",
+        "job_title": "BI Developer",
+        "industry": "Healthcare",
+        "country": "Spain",
+        "work_mode": "On-site",
+        "salary_usd": 100694,
+        "currency": "USD",
+        "skills": [
+            "Airflow",
+            "Spark",
+            "Databricks"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": true,
+        "company_rating": 3.1
+    },
+    {
+        "job_id": "JOB-2024-0117",
+        "date_posted": "2024-05-13",
+        "job_title": "Analytics Engineer",
+        "industry": "Automotive",
+        "country": "UK",
+        "work_mode": "On-site",
+        "salary_usd": 61754,
+        "currency": "USD",
+        "skills": [
+            "Tableau",
+            "Azure",
+            "Spark",
+            "Docker",
+            "Python"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 4.0
+    },
+    {
+        "job_id": "JOB-2024-0118",
+        "date_posted": "2024-04-13",
+        "job_title": "Analytics Engineer",
+        "industry": "Energy",
+        "country": "UK",
+        "work_mode": "On-site",
+        "salary_usd": 86163,
+        "currency": "USD",
+        "skills": [
+            "GCP",
+            "Databricks",
+            "AWS",
+            "Power BI"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 3.8
+    },
+    {
+        "job_id": "JOB-2024-0119",
+        "date_posted": "2024-04-04",
+        "job_title": "Data Analyst",
+        "industry": "E-commerce",
+        "country": "Germany",
+        "work_mode": "Hybrid",
+        "salary_usd": 115180,
+        "currency": "USD",
+        "skills": [
+            "Docker",
+            "Spark",
+            "Pandas",
+            "Databricks",
+            "T-SQL",
+            "SQL"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 3.9
+    },
+    {
+        "job_id": "JOB-2024-0120",
+        "date_posted": "2024-03-02",
+        "job_title": "Data Scientist",
+        "industry": "Finance",
+        "country": "USA",
+        "work_mode": "On-site",
+        "salary_usd": 64060,
+        "currency": "USD",
+        "skills": [
+            "Spark",
+            "GCP",
+            "Azure",
+            "Docker"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 3.7
+    },
+    {
+        "job_id": "JOB-2024-0121",
+        "date_posted": "2024-05-27",
+        "job_title": "Data Scientist",
+        "industry": "Energy",
+        "country": "Mexico",
+        "work_mode": "Hybrid",
+        "salary_usd": 69801,
+        "currency": "USD",
+        "skills": [
+            "Docker",
+            "Pandas",
+            "Azure",
+            "Databricks",
+            "GCP"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": true,
+        "company_rating": 4.8
+    },
+    {
+        "job_id": "JOB-2024-0122",
+        "date_posted": "2024-05-21",
+        "job_title": "BI Developer",
+        "industry": "Energy",
+        "country": "Canada",
+        "work_mode": "Remote",
+        "salary_usd": 104157,
+        "currency": "USD",
+        "skills": [
+            "Pandas",
+            "Machine Learning",
+            "Azure"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 3.0
+    },
+    {
+        "job_id": "JOB-2024-0123",
+        "date_posted": "2024-04-01",
+        "job_title": "Data Engineer",
+        "industry": "Tech",
+        "country": "France",
+        "work_mode": "Hybrid",
+        "salary_usd": 121022,
+        "currency": "USD",
+        "skills": [
+            "GCP",
+            "T-SQL",
+            "Azure",
+            "Databricks",
+            "Spark"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 4.6
+    },
+    {
+        "job_id": "JOB-2024-0124",
+        "date_posted": "2024-05-27",
+        "job_title": "Analytics Engineer",
+        "industry": "Healthcare",
+        "country": "USA",
+        "work_mode": "Remote",
+        "salary_usd": 100249,
+        "currency": "USD",
+        "skills": [
+            "Airflow",
+            "Snowflake",
+            "GCP",
+            "Spark",
+            "SQL",
+            "AWS"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 4.4
+    },
+    {
+        "job_id": "JOB-2024-0125",
+        "date_posted": "2024-04-11",
+        "job_title": "Data Analyst",
+        "industry": "Healthcare",
+        "country": "Spain",
+        "work_mode": "Hybrid",
+        "salary_usd": 129057,
+        "currency": "USD",
+        "skills": [
+            "Snowflake",
+            "Power BI",
+            "AWS",
+            "Pandas",
+            "Python"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 4.5
+    },
+    {
+        "job_id": "JOB-2024-0126",
+        "date_posted": "2024-05-18",
+        "job_title": "Data Scientist",
+        "industry": "Energy",
+        "country": "Brazil",
+        "work_mode": "On-site",
+        "salary_usd": 125853,
+        "currency": "USD",
+        "skills": [
+            "Docker",
+            "Tableau",
+            "Power BI",
+            "GCP",
+            "Python",
+            "Airflow"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 4.7
+    },
+    {
+        "job_id": "JOB-2024-0127",
+        "date_posted": "2024-02-19",
+        "job_title": "BI Developer",
+        "industry": "Energy",
+        "country": "Germany",
+        "work_mode": "Hybrid",
+        "salary_usd": 89823,
+        "currency": "USD",
+        "skills": [
+            "Databricks",
+            "Snowflake",
+            "Machine Learning",
+            "Docker"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 5.0
+    },
+    {
+        "job_id": "JOB-2024-0128",
+        "date_posted": "2024-01-03",
+        "job_title": "Data Scientist",
+        "industry": "Tech",
+        "country": "Spain",
+        "work_mode": "On-site",
+        "salary_usd": 81457,
+        "currency": "USD",
+        "skills": [
+            "Python",
+            "Spark",
+            "Snowflake",
+            "Airflow"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": true,
+        "company_rating": 4.4
+    },
+    {
+        "job_id": "JOB-2024-0129",
+        "date_posted": "2024-02-14",
+        "job_title": "Analytics Engineer",
+        "industry": "Tech",
+        "country": "Mexico",
+        "work_mode": "On-site",
+        "salary_usd": 71508,
+        "currency": "USD",
+        "skills": [
+            "AWS",
+            "Tableau",
+            "T-SQL",
+            "SQL",
+            "Airflow"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 4.4
+    },
+    {
+        "job_id": "JOB-2024-0130",
+        "date_posted": "2024-04-05",
+        "job_title": "Analytics Engineer",
+        "industry": "Healthcare",
+        "country": "Spain",
+        "work_mode": "Hybrid",
+        "salary_usd": 79554,
+        "currency": "USD",
+        "skills": [
+            "Azure",
+            "Airflow",
+            "GCP",
+            "AWS",
+            "Snowflake"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 4.4
+    },
+    {
+        "job_id": "JOB-2024-0131",
+        "date_posted": "2024-03-15",
+        "job_title": "Data Scientist",
+        "industry": "Healthcare",
+        "country": "USA",
+        "work_mode": "Remote",
+        "salary_usd": 63780,
+        "currency": "USD",
+        "skills": [
+            "Pandas",
+            "Snowflake",
+            "T-SQL",
+            "Machine Learning"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 3.8
+    },
+    {
+        "job_id": "JOB-2024-0132",
+        "date_posted": "2024-01-16",
+        "job_title": "BI Developer",
+        "industry": "E-commerce",
+        "country": "USA",
+        "work_mode": "Hybrid",
+        "salary_usd": 111267,
+        "currency": "USD",
+        "skills": [
+            "Power BI",
+            "AWS",
+            "SQL",
+            "Snowflake",
+            "T-SQL",
+            "Tableau"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 4.7
+    },
+    {
+        "job_id": "JOB-2024-0133",
+        "date_posted": "2024-01-05",
+        "job_title": "Data Analyst",
+        "industry": "Healthcare",
+        "country": "France",
+        "work_mode": "Remote",
+        "salary_usd": 127633,
+        "currency": "USD",
+        "skills": [
+            "Spark",
+            "Databricks",
+            "SQL",
+            "Airflow"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 4.7
+    },
+    {
+        "job_id": "JOB-2024-0134",
+        "date_posted": "2024-04-06",
+        "job_title": "BI Developer",
+        "industry": "Tech",
+        "country": "USA",
+        "work_mode": "Remote",
+        "salary_usd": 127770,
+        "currency": "USD",
+        "skills": [
+            "AWS",
+            "T-SQL",
+            "Snowflake",
+            "Python",
+            "Machine Learning",
+            "GCP"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 4.3
+    },
+    {
+        "job_id": "JOB-2024-0135",
+        "date_posted": "2024-01-20",
+        "job_title": "BI Developer",
+        "industry": "E-commerce",
+        "country": "Spain",
+        "work_mode": "On-site",
+        "salary_usd": 80323,
+        "currency": "USD",
+        "skills": [
+            "GCP",
+            "Snowflake",
+            "T-SQL"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 3.9
+    },
+    {
+        "job_id": "JOB-2024-0136",
+        "date_posted": "2024-03-15",
+        "job_title": "Data Analyst",
+        "industry": "Tech",
+        "country": "UK",
+        "work_mode": "On-site",
+        "salary_usd": 44223,
+        "currency": "USD",
+        "skills": [
+            "AWS",
+            "Airflow",
+            "Power BI",
+            "Databricks",
+            "Python"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": true,
+        "company_rating": 3.6
+    },
+    {
+        "job_id": "JOB-2024-0137",
+        "date_posted": "2024-02-29",
+        "job_title": "Data Analyst",
+        "industry": "Automotive",
+        "country": "France",
+        "work_mode": "Hybrid",
+        "salary_usd": 104725,
+        "currency": "USD",
+        "skills": [
+            "Airflow",
+            "Docker",
+            "Databricks",
+            "Spark",
+            "Tableau"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 3.2
+    },
+    {
+        "job_id": "JOB-2024-0138",
+        "date_posted": "2024-05-16",
+        "job_title": "Data Scientist",
+        "industry": "Healthcare",
+        "country": "France",
+        "work_mode": "On-site",
+        "salary_usd": 85989,
+        "currency": "USD",
+        "skills": [
+            "Snowflake",
+            "AWS",
+            "Machine Learning"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 3.2
+    },
+    {
+        "job_id": "JOB-2024-0139",
+        "date_posted": "2024-05-03",
+        "job_title": "Data Engineer",
+        "industry": "Healthcare",
+        "country": "Canada",
+        "work_mode": "Hybrid",
+        "salary_usd": 68107,
+        "currency": "USD",
+        "skills": [
+            "Databricks",
+            "AWS",
+            "Machine Learning",
+            "Spark"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 4.0
+    },
+    {
+        "job_id": "JOB-2024-0140",
+        "date_posted": "2024-02-23",
+        "job_title": "Data Analyst",
+        "industry": "Automotive",
+        "country": "Germany",
+        "work_mode": "On-site",
+        "salary_usd": 123182,
+        "currency": "USD",
+        "skills": [
+            "Machine Learning",
+            "Docker",
+            "Python",
+            "T-SQL",
+            "Snowflake",
+            "SQL"
+        ],
+        "seniority": "Senior",
+        "is_remote": false,
+        "company_rating": 4.3
+    },
+    {
+        "job_id": "JOB-2024-0141",
+        "date_posted": "2024-02-14",
+        "job_title": "Data Engineer",
+        "industry": "Tech",
+        "country": "Canada",
+        "work_mode": "Hybrid",
+        "salary_usd": 92089,
+        "currency": "USD",
+        "skills": [
+            "Power BI",
+            "Machine Learning",
+            "Spark",
+            "Docker"
+        ],
+        "seniority": "Lead",
+        "is_remote": false,
+        "company_rating": 3.1
+    },
+    {
+        "job_id": "JOB-2024-0142",
+        "date_posted": "2024-03-05",
+        "job_title": "Analytics Engineer",
+        "industry": "E-commerce",
+        "country": "France",
+        "work_mode": "On-site",
+        "salary_usd": 35172,
+        "currency": "USD",
+        "skills": [
+            "Databricks",
+            "AWS",
+            "Airflow",
+            "T-SQL"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 3.4
+    },
+    {
+        "job_id": "JOB-2024-0143",
+        "date_posted": "2024-02-16",
+        "job_title": "Data Engineer",
+        "industry": "Healthcare",
+        "country": "Canada",
+        "work_mode": "Remote",
+        "salary_usd": 76311,
+        "currency": "USD",
+        "skills": [
+            "SQL",
+            "Airflow",
+            "Databricks",
+            "Azure",
+            "Pandas",
+            "Tableau"
+        ],
+        "seniority": "Junior",
+        "is_remote": false,
+        "company_rating": 4.7
+    },
+    {
+        "job_id": "JOB-2024-0144",
+        "date_posted": "2024-05-24",
+        "job_title": "Data Engineer",
+        "industry": "Finance",
+        "country": "USA",
+        "work_mode": "Hybrid",
+        "salary_usd": 100715,
+        "currency": "USD",
+        "skills": [
+            "Docker",
+            "SQL",
+            "AWS",
+            "T-SQL",
+            "Power BI",
+            "Airflow"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 3.7
+    },
+    {
+        "job_id": "JOB-2024-0145",
+        "date_posted": "2024-02-29",
+        "job_title": "Data Scientist",
+        "industry": "Energy",
+        "country": "Germany",
+        "work_mode": "Hybrid",
+        "salary_usd": 56637,
+        "currency": "USD",
+        "skills": [
+            "GCP",
+            "Snowflake",
+            "Python",
+            "Databricks",
+            "Spark"
+        ],
+        "seniority": "Lead",
+        "is_remote": true,
+        "company_rating": 4.6
+    },
+    {
+        "job_id": "JOB-2024-0146",
+        "date_posted": "2024-05-30",
+        "job_title": "Data Engineer",
+        "industry": "Healthcare",
+        "country": "France",
+        "work_mode": "On-site",
+        "salary_usd": 93541,
+        "currency": "USD",
+        "skills": [
+            "AWS",
+            "Tableau",
+            "Snowflake",
+            "Docker",
+            "SQL",
+            "Azure"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": true,
+        "company_rating": 4.8
+    },
+    {
+        "job_id": "JOB-2024-0147",
+        "date_posted": "2024-05-19",
+        "job_title": "BI Developer",
+        "industry": "Finance",
+        "country": "France",
+        "work_mode": "Remote",
+        "salary_usd": 123600,
+        "currency": "USD",
+        "skills": [
+            "SQL",
+            "Airflow",
+            "Docker",
+            "Snowflake",
+            "Azure"
+        ],
+        "seniority": "Senior",
+        "is_remote": false,
+        "company_rating": 4.9
+    },
+    {
+        "job_id": "JOB-2024-0148",
+        "date_posted": "2024-04-10",
+        "job_title": "Data Scientist",
+        "industry": "Energy",
+        "country": "Brazil",
+        "work_mode": "On-site",
+        "salary_usd": 40891,
+        "currency": "USD",
+        "skills": [
+            "Databricks",
+            "T-SQL",
+            "Azure"
+        ],
+        "seniority": "Mid-Level",
+        "is_remote": false,
+        "company_rating": 4.8
+    },
+    {
+        "job_id": "JOB-2024-0149",
+        "date_posted": "2024-02-20",
+        "job_title": "Analytics Engineer",
+        "industry": "Energy",
+        "country": "Mexico",
+        "work_mode": "Remote",
+        "salary_usd": 111258,
+        "currency": "USD",
+        "skills": [
+            "Databricks",
+            "Power BI",
+            "Python",
+            "Airflow",
+            "Pandas",
+            "GCP"
+        ],
+        "seniority": "Junior",
+        "is_remote": true,
+        "company_rating": 4.8
+    },
+    {
+        "job_id": "JOB-2024-0150",
+        "date_posted": "2024-04-07",
+        "job_title": "Analytics Engineer",
+        "industry": "Finance",
+        "country": "UK",
+        "work_mode": "On-site",
+        "salary_usd": 78442,
+        "currency": "USD",
+        "skills": [
+            "AWS",
+            "Pandas",
+            "SQL"
+        ],
+        "seniority": "Senior",
+        "is_remote": true,
+        "company_rating": 4.1
+    }
+]
