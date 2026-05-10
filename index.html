@@ -133,90 +133,224 @@
     </footer>
 
 <script>
-    // URLs 
-    const urlMarket = 'https://raw.githubusercontent.com/aaduhalde/business-intelligence-ops/main/dashboards/market_intelligence_demo.json';
-    const urlSkill = 'https://raw.githubusercontent.com/aaduhalde/business-intelligence-ops/main/dashboards/skill_gap_matching_demo.json';
 
-    let marketChart, skillChart;
+const MARKET_JSON =
+'https://raw.githubusercontent.com/aaduhalde/business-intelligence-ops/main/dashboards/market_intelligence_demo.json';
 
-    async function loadDashboardData() {
-        try {
-            const response = await fetch(urlMarket);
-            if (!response.ok) throw new Error('Network response was not ok');
-            const data = await response.json();
-            
-            //  mapeo:
-            renderMarketChart(data.body || data); 
-        } catch (error) {
-            console.error("Error cargando Market Data:", error);
-            // Datos de respaldo para que no se vea vacío
-            renderMarketChart([
-                {skill: 'Python', salary: 110}, {skill: 'SQL', salary: 95}, 
-                {skill: 'Azure', salary: 115}, {skill: 'AWS', salary: 120}
-            ]);
+const SKILL_JSON =
+'https://raw.githubusercontent.com/aaduhalde/business-intelligence-ops/main/dashboards/skill_gap_matching_demo.json';
+
+let marketChart;
+let skillChart;
+
+async function loadDashboards() {
+
+    // =========================
+    // FETCH DATA
+    // =========================
+
+    const marketResponse = await fetch(MARKET_JSON);
+    const marketRaw = await marketResponse.json();
+    const marketData = marketRaw.data || marketRaw;
+
+    const skillResponse = await fetch(SKILL_JSON);
+    const skillRaw = await skillResponse.json();
+    const skillData = skillRaw.data || skillRaw;
+
+    // =========================
+    // MARKET INTELLIGENCE
+    // =========================
+
+    const skillCounter = {};
+
+    marketData.forEach(job => {
+
+        (job.skills || []).forEach(skill => {
+
+            skillCounter[skill] =
+                (skillCounter[skill] || 0) + 1;
+
+        });
+
+    });
+
+    const topSkills = Object.entries(skillCounter)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 6);
+
+    const marketCtx =
+        document.getElementById('marketChart').getContext('2d');
+
+    marketChart = new Chart(marketCtx, {
+
+        type: 'bar',
+
+        data: {
+            labels: topSkills.map(x => x[0]),
+            datasets: [{
+                label: 'Market Demand',
+                data: topSkills.map(x => x[1]),
+                borderWidth: 1
+            }]
+        },
+
+        options: {
+
+            responsive: true,
+
+            plugins: {
+                legend: {
+                    labels: {
+                        color: '#cbd5e1'
+                    }
+                }
+            },
+
+            scales: {
+
+                x: {
+                    ticks: {
+                        color: '#cbd5e1'
+                    },
+                    grid: {
+                        color: '#334155'
+                    }
+                },
+
+                y: {
+                    beginAtZero: true,
+                    ticks: {
+                        color: '#cbd5e1'
+                    },
+                    grid: {
+                        color: '#334155'
+                    }
+                }
+
+            }
+
         }
 
-        try {
-            const responseSkill = await fetch(urlSkill);
-            const dataSkill = await responseSkill.json();
-            renderSkillChart(dataSkill.metrics || dataSkill);
-        } catch (error) {
-            renderSkillChart([
-                {name: 'Analysis', score: 80}, {name: 'Scoring', score: 70},
-                {name: 'Modeling', score: 85}, {name: 'ETL', score: 90}
-            ]);
+    });
+
+    // =========================
+    // SKILL GAP RADAR
+    // =========================
+
+    const avgCoverage =
+        skillData.reduce((sum, item) =>
+            sum + (item.skill_coverage_pct || 0), 0
+        ) / skillData.length;
+
+    const avgMatch =
+        skillData.reduce((sum, item) =>
+            sum + (item.match_score || 0), 0
+        ) / skillData.length;
+
+    const avgDemand =
+        skillData.reduce((sum, item) =>
+            sum + (item.market_demand_score || 0), 0
+        ) / skillData.length;
+
+    const avgGap =
+        skillData.reduce((sum, item) =>
+            sum + ((item.missing_skills || []).length), 0
+        ) / skillData.length;
+
+    const skillCtx =
+        document.getElementById('skillChart').getContext('2d');
+
+    skillChart = new Chart(skillCtx, {
+
+        type: 'radar',
+
+        data: {
+
+            labels: [
+                'Match Score',
+                'Skill Coverage',
+                'Market Demand',
+                'Gap Reduction',
+                'Business Alignment'
+            ],
+
+            datasets: [{
+
+                label: 'Candidate Market Fit',
+
+                data: [
+                    avgMatch,
+                    avgCoverage,
+                    avgDemand,
+                    100 - (avgGap * 10),
+                    (avgMatch + avgCoverage) / 2
+                ],
+
+                borderWidth: 2
+
+            }]
+
+        },
+
+        options: {
+
+            responsive: true,
+
+            plugins: {
+                legend: {
+                    labels: {
+                        color: '#cbd5e1'
+                    }
+                }
+            },
+
+            scales: {
+
+                r: {
+
+                    angleLines: {
+                        color: '#475569'
+                    },
+
+                    grid: {
+                        color: '#334155'
+                    },
+
+                    pointLabels: {
+                        color: '#cbd5e1'
+                    },
+
+                    ticks: {
+                        color: '#cbd5e1',
+                        backdropColor: 'transparent'
+                    },
+
+                    suggestedMin: 0,
+                    suggestedMax: 100
+
+                }
+
+            }
+
         }
-    }
 
-    function renderMarketChart(items) {
-        const ctx = document.getElementById('marketChart').getContext('2d');
-        if (marketChart) marketChart.destroy();
-        
-        marketChart = new Chart(ctx, {
-            type: 'bar',
-            data: {
-                labels: items.map(d => d.skill || d.label || 'N/A'),
-                datasets: [{
-                    label: 'Salary Index ($k)',
-                    data: items.map(d => d.salary || d.value || 0),
-                    backgroundColor: 'rgba(59, 130, 246, 0.8)',
-                    borderRadius: 5
-                }]
-            },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                scales: { y: { beginAtZero: true, grid: { color: '#334155' } } }
-            }
-        });
-    }
+    });
 
-    function renderSkillChart(metrics) {
-        const ctx = document.getElementById('skillChart').getContext('2d');
-        if (skillChart) skillChart.destroy();
+}
 
-        skillChart = new Chart(ctx, {
-            type: 'radar',
-            data: {
-                labels: metrics.map(m => m.name || m.skill || 'Skill'),
-                datasets: [{
-                    label: 'Market Match',
-                    data: metrics.map(m => m.score || m.value || 0),
-                    borderColor: '#10b981',
-                    backgroundColor: 'rgba(16, 185, 129, 0.2)',
-                    pointBackgroundColor: '#10b981'
-                }]
-            },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                scales: { r: { grid: { color: '#334155' }, angleLines: { color: '#334155' } } }
-            }
-        });
-    }
+function updateCharts() {
 
-    // Ejecutar carga inicial
-    document.addEventListener('DOMContentLoaded', loadDashboardData);
+    const filter =
+        document.getElementById('marketFilter').value;
+
+    console.log('Selected Filter:', filter);
+
+    // Future filter logic placeholder
+
+}
+
+loadDashboards();
+
 </script>
 
 </body>
