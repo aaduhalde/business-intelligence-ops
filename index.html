@@ -39,11 +39,7 @@
                             <div>
                                 <h4 class="text-slate-100 font-semibold text-sm mb-1">Key SQL Logic</h4>
                                 <pre class="text-[10px] bg-slate-900 p-2 rounded text-emerald-300">
-WITH AvgSalary AS (
-  SELECT role, AVG(salary) as avg_s 
-  FROM fact_market_jobs
-  GROUP BY role
-) -- Window functions for IQ</pre>
+                                </pre>
                             </div>
                         </div>
 
@@ -82,9 +78,7 @@ WITH AvgSalary AS (
                         <div class="mb-6">
                             <h4 class="text-slate-100 font-semibold text-sm mb-1">Key DAX Measure</h4>
                             <pre class="text-[10px] bg-slate-900 p-2 rounded text-blue-300">
-DataFreshness = 
-VAR LastLoad = MAX(FactETLLogs[LoadDate])
-RETURN DATEDIFF(LastLoad, NOW(), HOUR)</pre>
+                            </pre>
                         </div>
 
                         <div class="flex flex-wrap gap-4">
